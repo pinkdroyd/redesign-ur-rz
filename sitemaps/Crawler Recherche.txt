@@ -1,0 +1,28 @@
+Erstellung von xml-Sitemaps, durch Linkeingabe, kostenfrei
+https://www.xml-sitemaps.com/
+http://www.web-site-map.com/
+
+Visualisierung von xml-sitemaps, Importmöglichkeit, max. 100 Links --> nicht ausreichend für RZ
+http://dynomapper.com/
+
+Crawler in Java zum selbst programmieren / anpassen, keine grafische Visualisierung
+http://www.programcreek.com/2012/12/how-to-make-a-web-crawler-using-java/
+
+
+Nullpointer - WebTracer 2
+http://www.nullpointer.co.uk/-/webtracer2.htm
+
+grafische Darstellung von Webseiten Strukturen
+- vorgegebene Darstellung nicht passend?
+
+Xenu's Link Sleuth
+http://home.snafu.de/tilman/xenulink.html
+
+sucht auf Webseite nach toten Links, sollte somit auch alle funktionierenden Links auflisten
+- keine grafische Darstellung
+
+TouchGraph SEO Browser
+http://www.touchgraph.com/seo
+
+stellt grafische Darstellung zu externen Seiten zur Verfügung
+- keine interne Linkstruktur

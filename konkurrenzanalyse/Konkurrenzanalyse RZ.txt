@@ -1,0 +1,40 @@
+Konkurrenzanalyse RZ
+Andere Uni Seiten zu RZ Seiten 
+
+
+Fernuniversität Hagen:
+Struktur der Seite: tief ( keine Ahnung wie tief es geht, da immer wieder neue Seite aufgerufen wird, wirklicher zurückgelegter Weg ist nicht nachvollziehbar)
+Auffälligkeiten: 
+	- Corporate Design der gesamten Uni ( wenn man es so nennen will) ist nicht Zeitgemäß. Weder Fancy noch gut strukturiert
+	- Rechenzentrum an sich gibt es nicht, lediglich Zentrum für Medien und IT (zmi)
+	-weg von Uni Seite zur zmi ist nicht auffindbar für mich
+	-Unterteilung in arbeiten. lehren und studieren
+	-Hilfeseite für Anfänger die Verlinkung zu wichtigen Seiten enthält
+	-Suchfunktion ist nutzlos
+	-das einzige was an navigation sticky bleibt ist links Helpdesk,Systemstatus,Leistungsangebot und Downloads
+	-
+
+LMU: 
+Struktur der Seite: tief ( 6 Ebenen)
+Auffälligkeiten: 
+	- Rechenzentrumseite ist das Leibniz Rechenzentrum, was alle Hochschulen in München betreut
+	- Ist zugelich ein Supercomputing Centre von Deutschland
+	- Dadruch, dass dieses Institut so groß ist, gibt es mehrer Nutzergruppen ( Hochschulmitarbeiter,Studenten,Supercomputer Nutzer, Grid- Nutzer, Cloud Nutzer, Institutionen, Netzverantwortliche, Systemverwalter, Nuter mit Handicap, Pressevertreter)
+	- Es ist eine Seite für die verschiedenen Nutergruppen vorhaden mit quick links zu häufigen Problemen
+	- sehr schwirig Sachen zu finden die nicht auf der Hilfe Liste verlinkt sind, durch tiefe Struktur der Seite
+	- Am Ende der Seite nochmalige Nennung häufig genannter Themen 
+	
+
+
+Universität Köln:
+Struktur der Seite: breite Struktur(max 3 Ebenen)
+Auffälligkeiten: 
+	-Es gibt ein Rechenzentrum jedoch kann man das nicht über die Uni Hauptseite finden. Nur über google Suche
+	-Unterteilung von Nutzergruppen in Studierende, Promovierende, Beschäftigte und Einrichtungen. Promovierende und Beschädtige Unterscheiden sich nicht
+	-Schnelleinstigesseiten für die jeweiligen Gruppen. Keine eigenen Seiten für die Einsteiger sondern lediglich links zu den Stellen wo man die Information finden kann auf der Seite
+	-Infoboard über die aktuelle Nachrichten
+	-Häufig genutze Sachen wie VPN und Hard und Software auf der Hauptseite
+	-Weiterführung des Corporate Desgins der Uni. Wird nicht bei allen Fakultäten eingehalten
+	-Verlinkung mit Social Media möglich
+	-benutzt Piwik zu statistischen Auswertung der Seite ( http://piwik.org/)
+	-wirkt besser Strukturiert als Rgb RZ Seite

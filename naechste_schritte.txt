@@ -1,0 +1,26 @@
+nächste schritte:
+- flowchart aller seiten
+    - über crawler informieren (fabi)
+    [- crawler schreiben]
+    - crawler einsetzen
+    - crawlerdaten auswerten und visualisieren
+- konkurrenzanalyse (notizen zu struktur und hierarchie (breit oder tief), sonstige auffälligkeiten, vergleich zu rz ur aufstellen)
+    - rz uni regensburg (fabi)
+    - OTH + größte deutsche unis (fernuni hagen, lmu, uni köln, Johann Wolfgang Goethe-Universität Frankfurt am Main) (domi & hannes)
+    - international (university of cambridge, university of oxford, université paris-sorbonne) (ben)
+    - wieviele mitarbeiter- und studenten-accounts gibt es?
+   
+---------------------------------------
+
+danach:
+- nutzergruppen ermitteln
+    - wie "externe" ermitteln?
+    - wieviele mitarbeiter- und studenten-accounts gibt es?
+
+deliverables:
+- struktur der aktuellen seite
+- anforderungen für neue webseite
+    - requirements (was erwarten die nutzer von der seite?)
+    - zielgruppen & personas
+    - informationsarchitektur (wie erstellen & visualisieren?)
+    - workflow für redaktionelle prozesse (nice to have)

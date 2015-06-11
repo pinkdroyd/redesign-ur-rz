@@ -1,0 +1,32 @@
+Konkurrenzanalyse international
+
+University of Cambridge - University Information Services: http://www.ucs.cam.ac.uk/
+- "provides computing facilities and related services in support of IT in the University of Cambridge"
+- tiefe Struktur (6 top-level Punkte:
+    - Home
+    - About
+    - "Top links"
+    - Index
+    - Allgemeine Einsteigerinfos ("Starting points") mit 7 Unterpunkten (eher Linksammlungen zu internen Inhalten)
+- keine sofort ersichtliche Struktur bei Aufzählung der Menüpunkte (nicht alphabetisch)
+- FAQs gemischt mit "normalen" Unterpunkten (z.B. Punkt "Troubleshooting Mac OS X" gefolgt von "FAQ: How do I uninstall the VPN CISCO client under Mac OS X?")
+- mitten unter Benutzung andere Toplevel-Menüpunkte?! zusätzlich: News, Information Service Committee, Health & safety issues7
+- redundante Struktur: Menüs doppelt auswählbar (linke Spalte und Leiste oben), teilweise Menü rechts.
+- keine Struktur, die kopiert werden sollte, zu unübersichtlich
+
+
+University of Oxford - IT Services: https://www.it.ox.ac.uk/ und IT Help: https://help.it.ox.ac.uk/
+- "provide the IT services that the University of Oxford requires"
+- breite Struktur (viele Toplevel-Menüpunkte, darunter meist Seiten mit weiteren Links)
+- beide Seiten sehr unübersichtlich aufgebaut, keine Ahnung wo man sich auf der Seite befindet, kein "geistiger Pfad"
+- abandon website, keine ahnung wie man damit arbeiten kann
+
+
+Université Paris-Sorbonne
+- nicht gefunden
+
+
+Harvard University - IT: http://huit.harvard.edu/
+- breite Struktur (maximal 3 Ebenen, auf dritter Ebene nur noch Seiten mit Verlinkunden - analog zur UR-Struktur)
+- ähnlich zu UR
+- nichts innovatives oder bemerkenswertes

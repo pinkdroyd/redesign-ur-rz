@@ -1,0 +1,12 @@
+logs: pfade der nutzer verfolgen
+crawler programmieren (inhalt sichten)
+BA oder seminararbeit aus münchen -> schickt er uns
+benutzerstudien wichtig
+bei neuem konzept: muss für jeden plausibel sein, warum unsere lösung besser ist (-> zahlen und fakten (zeit, klicks, etc.) -> tools für auswertung erstellen) -> graphische visualisierung
+kernaspekte: studie und analyse
+logs: LAN-Kabel eher mitarbeiter, WLAN eher Studenten
+Zielgruppen: Studenten, mitarbeiter, externe (Hardware-Lieferanten, etc.)
+erster Schritt: Log-Dateien analysieren (Klickpfadanalyse)
+erste schritte: methoden klären und heuristische exp.eval. welche unterseiten sind relevant -> welche zielgruppen?
+
+zeit für meeting: 20 minuten

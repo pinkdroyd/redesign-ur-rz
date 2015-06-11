@@ -1,0 +1,12 @@
+Konkurrenzanalyse: Ausgangspunkt Rechenzentrum Uni R
+
+- extrem breite und Tiefe Navigationsstruktur (viel Information an vielen unterschiedlichen Stellen)
+- Landing Page = "News"seite (Newsupdates alle 4 Wochen)
+- Menüpunktbezeichnungen irreführend (Software --> Windows vs. Windows Zubehör)
+- Verlinkung auf externe Seiten wirkt extrem inkosistent
+- keine Möglichkeit über globales Profil nutzerbezogene Daten zu ändern
+- viel Text wenig unterstützung durch z.B. Icons
+- Items mit vorraussichtlich geringem Nutzen auf 2nd-Level (Apple on Campus)
+- 2nd-Level Items grenzen sich zu wenig von Top-Level Items ab, jedoch vom CMS vorgegeben
+- rechte Leiste dauerhaft präsent mit Bild und Telefonnummer, wieso?
+- irgendwie keine Möglichkeit ein mentales Modell zu erstellen
