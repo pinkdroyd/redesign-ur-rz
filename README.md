@@ -1,1 +1,1 @@
-# redesign-ur-rz
+This project aims to redesign the information structure (information architecture) of the "Rechenzentrum" of University of Regensburg (https://www.uni-regensburg.de/rechenzentrum/index.html).
