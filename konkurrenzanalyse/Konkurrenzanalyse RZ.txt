@@ -38,3 +38,42 @@ Auffälligkeiten:
 	-Verlinkung mit Social Media möglich
 	-benutzt Piwik zu statistischen Auswertung der Seite ( http://piwik.org/)
 	-wirkt besser Strukturiert als Rgb RZ Seite
+
+
+Universität Frankfurt (rz.uni-frankfurt.de):
+Gliederungspunkte:
+- Service Center
+- Goethe Card => Directlink zu HRZ-Account und PW ändern
+- Studienverwaltung => Login zu LSF und Campus Management 
+- Lernsysteme => Login OLAT, BSCW
+- E-Mail 
+- Druckerzentrum
+- WLAN/Netze/Telefonie: DirectLinks WLAN, Telefonie und Arbeiten von Zuhause: VPN
+- Pool- und Kursräume: Campus (Westend, Riedberg, Bockenheim) Follow-Me-Druck 
+- Web & Applikationen: Login FIONA, NBS
+- Medientechnik: Direktlink Videoportal 
+- Workshops, Schulungen u. Veranstaltungen 
+- ePrüfungen 
+
+Rechte Seite: 
+- Hilfe (FAQ, Helpdesk, Ansprechpartner)
+- HRZ-Services: Für Studierende, Beschäftige, Gäste, Fachbereiche 
+- Standorte und Kontakt
+
+Unten: Termine & Veranstaltungen 
+
+Oben (unauffällig) Topnavigation
+- HRZ => Startseite
+- News
+- Erste Schritte => Für Studierende (HRZ-Account, Barrierefreiheit), Beschäftigte (FAQ, HRZ-Account, Sicherheitshinweise), Externe Kostenstellen  
+- Services: Für Studierende, Beschäftigte, Gäste, Fachbereiche 
+- Hilfe & Beratung: FAQ, E-Mail, Service Center 
+- Über uns
+- Dokumente 
+
+Zusammenfassung: 
+- Bei jedem Menüpunkt gibt is mehrere Direkt-Links zu bestimmten Funktionen (z.B. Rz-Passwort ändern)
+- Schlichtes Design. Funktionalität im Vordergrund 
+- Über uns und Dokumente sind bessere Bezeichnungen als "Unser Rechenzentrum" und "Literatur"
+- Möglicherweise verwirrt die Topnavigation (zu viele verschiedene Navigationen)
+- Rechte Spalte immer Karte, manchmal Kontakt, Suche oben rechts 
