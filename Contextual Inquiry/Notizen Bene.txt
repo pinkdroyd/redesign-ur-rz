@@ -1,0 +1,27 @@
+P5
+Student (Medieninformatik), 22, m
+benutzt Startseite der RZ-Seite nicht: sucht alle Inhalte über Google
+Funktionen: PW ändern (sonst nichts benutzt unter "mein konto"), Windows beschaffen (Probleme, den richtigen Link zu finden)
+weißt nicht, wo er ist (Navigation wechselt selbstständig in andere Bereiche)
+komplizierte Bedienung, umständlich viel Schritte (oft aufklappbare Reiter, meist ohne Reiter einfacher)
+Support: Öffnungszeiten benutzt
+Menüstruktur: unübersichtlich, weiß nicht wo er ist.
+Was stellt er sich darunter vor:
+	Literatur: Programmierbücher
+	-> warum mit Unterpunkt? nur Daten, keine Literatur
+	Unser RZ: Kontakt, Mitarbeiter, alles über RZ
+	IT-Services: Hilfe und Anleitungen
+
+P6
+Student (InfoWiss), 27, m
+Google: RZ Uni regensburg
+PW ändern, Wohnheim (normal URL direkt eintippen und RZ vermeiden): vermutet unter IT-Services, Link aber in Support (versteht nicht warum?), persönliche Seite weit unten, doppelte Benennungen
+sehr viele externe Webseiten und verschiedene Anmeldungen
+findet nicht, wo man Wertcoupons kaufen kann (keine klare Benennung, sehr schwammig)
+sehr viel unnötiger Text, schreckt ab, möchte lieber Software, die vom Lastwagen gefallen ist
+fehlende Informationen (Ausleihe von Audiogeräten)
+findet Seite sehr schlecht
+Was stellt er sich darunter vor:
+	IT-Services: Anleitungen
+	Unser RZ: Kontaktdaten, Mitarbeiter
+	Literatur: wissenschaftliche Arbeiten
