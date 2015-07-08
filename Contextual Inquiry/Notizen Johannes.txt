@@ -1,7 +1,7 @@
 Proband		| 1
 Alter		| 24
 Geschlecht	| Männlich
-Beruf		| Student (Jura)
+Beruf		| Student (Infowiss)
 
 Über uni Rgb seite auf Rz seite, wird immer so gemacht
 passwort geändert, drucker guthaben hnzufügen.
