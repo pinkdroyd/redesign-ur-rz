@@ -1,0 +1,106 @@
+##Anmerkungen CI-Auswertung
+
+#P1
+#externe Webseiten sind verwirrend und nicht gewünscht
+#Navigation unübersichtlich
+#Google Suche anstatt interne Suche
+#Informationen redundant vorhanden
+#Ebene nicht eindeutig zu unterscheiden
+#Navigationselmente werden nicht gentutzt, da unübersichtlich
+#zu viele Klicks notwendig um zum Ziel zu gelangen
+
+#P2
+#Coupon aufladen schlecht zu finden
+#Seite nicht ansprechend und unübersichtlich
+#Geräteverlängerung durch Email-Link
+#Responsive Design funktioniert nicht immer
+#Google Suche anstatt interne Suche
+
+#P3
+#externe Webseite verwirrend
+#Menü unstrukturiert
+#kein User Centered Design
+#Trennung von SW und SW für Studierende unklar
+
+#P4
+#Verwendung von Bookmark
+#externe Webseiten verwirrend
+#schlichtes Design fällt auf
+
+#P5
+#SW-Angebot durch Lizenzen verwirrend (Dreamspark & MSDAA)
+#Menüstruktur unübersichtlich
+#Zuordnung des Contents zu den Menüpunkten passt oft nicht
+
+#P6
+#Wohnheim-Zugang über RZ unübersichtlich
+#redundanter Content
+#Coupons müssen bar gekauft werden (keine digitalen Zahlungsmöglichkeiten)
+#SW-Angebot schwer zu erreichen
+#keine zentrale Verwaltung von Lizenz-Programmen
+#zu oft Wall-of-Text
+#fehlende Informationen & schlechtes Layout der Hardware-Ausleihe
+
+#P7
+#Geld zahlen hat abgeschreckt bei Druckcoupons
+#kein direkter Link zu Office-Download (Lizenz-Problematik)
+#Tutorials & Anleitungen gut
+
+#P8
+#SW-Beschaffung über Google-Suche
+#Netzwerkanmeldung nicht gefunden deswegen Aufsuchen d. Infostandes
+
+#P9
+#gute Anleitungen
+
+#P10
+#Abschalten des secure-Netzwerkes nicht mitbekommen, deswegen keine Nutzung des WLANs, auch keine Hilfesuche (weder auf der Webseite noch am Infostand), auch im Bekanntenkreis weitverbreitet
+
+#P11
+#PW ändern aus Link aus d. Email
+#Geräteregistrierung über Redirect bei Verbindung
+#Öffnungszeiten über Komilitonen ermittelt
+
+#P12
+#Probleme mit WLAN werden abgewartet und nicht recherchiert (Infostand, Webseite)
+
+#P13
+#RZ-PW Link in der Email
+#WLAN-Einrichtung durch Komilitonen
+#Infostand wegen Passwort-Schwierigkeiten
+
+#P14
+#Geräte über Redirect verlängert
+#Infostand bei Passwort-Problemen aufgesucht
+#Verwendung von Lesezeichne zur RZ-Seite
+
+#P15
+#Anleitungen schwer verständlich
+#Registrierung über Redirect
+#Infostand aufgesucht wegen speziellem Problem der Mailadresse
+
+#P16
+#Verwendung von Lesezeichen
+#WLAN Anleitung zu kompliziert
+#keine Verwendung von Notebook / Smartphone an der Uni deswegen kein großer Bedarf
+
+#P17
+#Verwendung von Lesezeichen
+#bei Hilfe lieber direkt zum Infostand
+
+#P18
+#WLAN-Hilfe nicht aussagekräftig
+
+#P19
+#SPSS problematisch, auch im Bekanntenkreis
+#direkt zum Infostand
+#schlechte Gliederung
+#keine gute Übersicht über das Angebot
+
+#P20
+#WLAN-Hilfe ist schlecht
+#Support verwirrend
+#Google Suche anstatt interner Suche
+#VPN über Infostand, Support war keine Hilfe
+#Darstellung von weiterführenden Links im Fließtext
+#keine Information über Öffnungszeiten
