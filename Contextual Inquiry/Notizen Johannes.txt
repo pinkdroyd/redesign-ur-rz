@@ -1,0 +1,301 @@
+Proband		| 1
+Alter		| 24
+Geschlecht	| Männlich
+Beruf		| Student (Jura)
+
+Über uni Rgb seite auf Rz seite, wird immer so gemacht
+passwort geändert, drucker guthaben hnzufügen.
+Anmeldung bereitet Probleme
+außerhalb ist nicht erwünscht
+Viele zurückbuttons aufgrund von externer Seite
+Passwort rücksetzseite wird meist garnicht gefunden.
+Viele Umwege bis man da ist. Zusätzlich zu Passwort ändern button mit passwort zurücksetzen 
+W-Lan einrichten, über Suche = funktoniert :O
+navigationsbreich wird lieber nicht genutzt da zu unstrukturiert
+viele Information wird über Google gesucht
+Viele Klicks für Software.
+mehrere menüpunkte für drucken = überall was anderes
+Suche nach Linux CIP pools = wird im bereich drucken gefunden, keine auswahl von Linux CIP möglich. = Raumsuche
+Menü wird nicht angesehen, da einrückungen zu klein und selbe Schrift
+
+
+
+Proband		| 2
+Alter		| 21
+Geschlecht	| weiblich
+Beruf		| Student ( Kulturwissenschaft/spanisch)
+
+Rz Webseite kein geläufiger begriff, über uni Seite
+Druckcoupons werden über mein Konto auf rz account geladen = Externe Seite
+Externe Seite ist relativ egal, nicht praktisch weil externe Seite und es wird auch oft nicht gefunden. 
+Man kann so nachsehen ob drucken erfolgreich war.
+Verlängerung der Geräte = wird direkt über mail auf externe seite geleitet 
+Seite ist nicht ansprechend
+Komplette uni Seite ist kacke
+Über google findet man die Sachen leichter als über Webseite direkt zu suchen.
+Man sucht lange nach information ohne Suche
+Mit Handy ist die ansicht anders und es fehlen Sachen
+Passwort ändern wurde über Rz Seite geschafft
+
+
+Proband		| 3
+Alter		| 30
+Geschlecht	| Weiblich
+Beruf		| Student (american Studies)
+
+Auf Rz über Uni Seite. immer über die Uni Seite
+Mein Konto. Passwort ändern = geht ohne Probleme. Coupon fürs drucken aufladen. Druckcoupn seite extern stört
+Software. Windows. Keine Probleme alles logisch erklärt. wurde erklrt von Seminarleiter
+Menü ist auch nicht ideal. zu viele Auswahlmöglichkeiten für softaresuche
+ausloggen aus konto bei uni bib kann nicht auf uni seite zurück
+Proband sucht fehler bei ihr selber
+Sonst keine Probleme 
+Alle Uni seiten werden als eine Seite angesehen
+
+
+
+Proband		| 4
+Alter		| 23
+Geschlecht	| Männlich
+Beruf		| Student (  allg u. vergleichende Sprachwissenschafft)
+
+Normalerweise über lesezeichen auf uni Seite
+Über uni Seite auf Rz
+Mein RZ account. Passwort ändern, wertcoupons für drucker. Anderes layout für seite verwirrt
+it services: Gerät anmelden geht nicht = Hilfe funktion 
+Unser RZ. allg information übers RZ, mitarbeiter, hilfe, information
+Literatur: Broschüren, = nimmt wsl niemand her
+schlicht gehalten Webseite, Privat open office
+open office wird verwendet weil bereits eingearbeitet
+Struktur ist eingiebig und einfach gestaltet.
+benötigt restliche information der Seite nicht
+
+
+Proband		| 5
+Alter		| 24
+Geschlecht	| Männlich
+Beruf		| Student
+
+selber
+
+
+Proband		| 6
+Alter		| 27
+Geschlecht	| Männlich
+Beruf		| Student ( Infwissler)
+
+Google = Rz seite
+früher direkt über rz webadresse, geht jetzt nicht mehr.
+passwort ändern
+Wohnheim wohner: Keine Ahnun wie man on rz auf wohnheimseite kommt, geht direkt über adresse zur seite
+geht über support auf wohnheimseite
+nochmal support = redundant, hätte über google gesucht
+hätte sich eventuell nicht über struktur durch gehangelt
+Rz konto über externe seite aufladen = nochmal externe seite um geld abzubuchen. Coupons müssen bar gekauft werden. wieso nicht über paypal
+wertcoupons:findet nichts im suppport, it services ( fast das gleiche wie support), findet nur wie man coupon eingeben muss, nicht wie man einen bekommt, wird nicht gefunden
+über google suche. keine Information über erwerb der coupons = abbruch
+Software: direkt auf nav punkt. = dreamspark nicht unbedingt einfach zu erreichen. piraten einfacher als sich durch rz seiten zu kämpfen
+wieder weiterleitung auf it services.
+nicht alle linzensen die die uni hat werden angezeigt.
+hardware: wieso carousel, wall of text wird nicht gelesen zu viel information. andere geräte wie laptop werden erst später angezeigt. Struktur ist nicht ideal
+öffnungszeiten: link = da, sekretariat cip und so weiter vor infostand.
+findet seite scheise und wenn einem die seite nicht gefällt kann man diese leicht runter machen.
+it services. sowas wie support nur für anleitungen und so
+unser rz. mitarbeiter kontaktdaten
+literatur. wissenschaftliche arbeiten
+
+
+Proband		| 7
+Alter		| 21
+Geschlecht	| weiblich
+Beruf		| Student ( Jura)
+
+Über Google, nimmt ergebnis her und navigiert sich dann weiter
+Passwort ändern wird meist verwendet
+Drucken wurde versucht, Geld musste hochgeladen werden = aufgabe
+sonst nur passwort ändern
+Geräte übers wlan aktualisieren, tutorials und anleitungen wurden verwendet
+Office wollte heruntergeladen werden, jedoch konnte nur information über office gefunden werden kein download link, = zu umständlich
+
+
+
+Proband		| 8
+Alter		| 23
+Geschlecht	| weiblich
+Beruf		| Student ( BWL)
+
+Über google auf rz seite
+war scon mal auf service, um laptop anzumelden,
+hat sich auch office runtergeladen, jedoch ist weg unbekannt, wurde ws üer google gemacht
+Rz passwort ändern wurde verwendet 
+
+
+
+Proband		| 9
+Alter		| 30
+Geschlecht	| männlich
+Beruf		| student (Medieninformatik)
+
+Aufruf über link von uni home page
+passwort ändern
+mein konto 
+smartphone synchonisation konnte ohne probleme verwendet werden, gute anleitungen
+software, windows office aktivierung lief nicht problemlos herunterladen schon
+Cip pools wo diese sind 
+Nicht genau bekannt wo coupon herbekommen wird
+
+
+
+Proband		| 10
+Alter		| 22
+Geschlecht	| Weiblich
+Beruf		| Student ( Jura)
+
+Wird nur verwednet um passwort zu ändern 
+Softwarebeschaffung wird von freund gemacht weil die benutzung unbekannt ist.
+Unbekannt, dass es kein secure-uni regensburg mehr gibt = ablöse durch eduroam
+email wird direkt abgerufen, erster besuch wurde über brischüre aus dem ersten semester gefunden
+
+
+Proband		| 11
+Alter		| 20
+Geschlecht	| männlich
+Beruf		| Student (Molekulare Medizin)
+
+Passwort über link aus email
+Registrieren von smartphone im wlan, direkt über browser seite
+Cip pool ausstattunn ist bekannt
+drucken wird nicht benutzt
+Support, keine information über öffnungszeiten wurden über komilitonen ermittelt
+
+
+
+Proband		| 12
+Alter		| 22
+Geschlecht	| männlich
+Beruf		| Student (Biochemie)
+
+Über google seite
+Rz passwort ändern
+software, Programme für biochemie, jedes mal ohne probleme
+Druckcoupons ohne probleme
+Probleme mit wlan jedoch nicht informiert wieso es nicht geht
+support wurde nicht benutzt
+
+
+
+Proband		| 13
+Alter		| 24
+Geschlecht	| männlich
+Beruf		| Student (Biologie)
+
+Direkt über google.de auf Rz seite
+Rz Passwort ändern über link
+Cip pool wurde informiert über seite
+beim rz wegen passwort schwirigkeiten = support ( wie öffnungszeiten herbekommen wurden unbekannt)
+smartphone wurde erklärt über freund 
+
+
+Proband		| 14
+Alter		| 23
+Geschlecht	| weiblich
+Beruf		| stunden ( molekulare medizin)
+
+Über uni Seite oder über bookmark
+Mein Rz Acc, passwort ändern
+Kontostand ansehen, und wohnheimseite, druckcoupons informationen stehen einfach sonst irgendwo
+software, spss citavi, ohne probleme
+geräte direkt über wlan link aktiviert nicht über rz seite
+support einfach vorbeigegangen welcher offen hatte
+
+
+Proband		| 15
+Alter		| 26
+Geschlecht	| männlich
+Beruf		| Stundent (Biochemie)
+
+auf seite über google, geht am schnellsten
+Rz passwort ändern
+software, office etc, keine problem 
+Druckcoupons auf aufladen
+Client für vpn runterladen, hat nicht funktioniert am anfang hilfe über rz webseite, anleitung war schwer verständlich
+Support, ja, bei problemen erst über seite = hat nichts geholfen, öffnungszeiten recht einfach zu finden
+smartphone über basic registiert nicht über rz seite
+
+
+Proband		| 16
+Alter		| 21
+Geschlecht	| weiblich
+Beruf		| Student (Pharmazie)
+
+Auf seite über google bzw bookmark
+Rz Passwort
+Wlan informiert aber zu kompliziert kein gerät angemeldet
+bei problemen erst auf seite ´sehen nicht direkt zum support
+
+Proband		| 17
+Alter		| 19
+Geschlecht	| männlich
+Beruf		| student( Physik)
+
+google sonst als bookmark
+passwort ändern
+software, was man sich besorgen kann informiert nichts geladen Math Lab etc.
+hardwareausleihe, studenrabat etc informieren
+Handy registriert
+sonst keine probleme 
+Bei hilfe direkt zum support
+keine anleitungen oder sonstiges verwendet 
+
+
+Proband		| 18
+Alter		| 20
+Geschlecht	| männlich
+Beruf		| Student ( physik)
+
+über google auf rz seite
+Rz passwort ändern
+allgemein sich bereits informiert, was alles geboten wird, kein interesse an software etc.
+email genutzt, informiert wie es funktioniert
+wlan informiert wieso es nicht geht. Gefunden wurde etwas, hat jedoch nicht viel geholfen wurde durc trial and error gelöst
+
+
+Proband		| 19
+Alter		| 22
+Geschlecht	| weiblich
+Beruf		| Student ( Humanmedizin)
+
+Über google auf rz seite
+passwort erneuern
+geräteregistration
+spss wurde ohne probleme heruntergeladen und installiert
+wlan geht ab und zu nicht jedoch noch nicht nachgefragt
+keine hilfe über webseite sondern direkt zum support
+bessere gliederung keine wirkliche information was es alles gibt
+
+
+
+Proband		| 20
+Alter		| 21
+Geschlecht	| weiblich
+Beruf		| Student ( Humanmedizin)
+
+Über die uni startseite
+Rz passwort ändern
+Wlan information, wie man rein kommt, bisschen kompliziert aber es geht nicht anders, nicht klar, dass wlan unter support ist, reiner zufall
+Druckcoupns aufladen
+Austattung der cip pools über google suche, öffnungszeiten etc.
+Internet im wohnheim über rz seite
+VPN spss über vpn installiert, probleme bei installation, direkt zum support keine hilfe von webseite
+software spss ist schwer zu finden über link in fließtext, keine informatin darüber welche version man braucht
+Support öffnungszeiten wurden nicht nachgesehen, auf gut glück
+
+
+
+
+
+
+
+
+
+
