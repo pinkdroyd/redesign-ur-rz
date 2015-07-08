@@ -76,7 +76,7 @@ Alter		| 24
 Geschlecht	| Männlich
 Beruf		| Student
 
-selber
+
 
 
 Proband		| 6
