@@ -1,0 +1,2 @@
+Sämtliche Tests werden am selben Gerät und mit dem gleichen Browser durchgeführt. Außerdem werden alle Versuche aufgezeichnet mit Bild und Ton und eine spätere Analyse vorzunehmen.
+Jedem Versuch wird außerdem ein Schriftfüher beiwohnen, welcher den sämtlichen Versuchsablauf mitkommentiert, falls technische Fehler auftreten oder bei der Analyse der Video und Audiodaten Fragen auftreten.
