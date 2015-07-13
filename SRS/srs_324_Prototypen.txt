@@ -1,0 +1,2 @@
+Um die erhaltenen Ergebnisse aus der Ist-Analyse, dem Card Sorting, dem Fragebogen und den Personas zusammenzuführen, wird zunächst ein einfacher Paper Protoyp oder ein Imperia Prototyp erstellt. Dieser wird anschließend durch Experten und Nutzer getestet und evaluiert ob die verwendeten Spezifikationen tauglich sind. 
+Sobald das Protoyping abgeschlossen ist, wird ein finaler Protoyp mit Imperia erstellt um Nutzertests duruchzuführen und die erstellte Struktur zu testen.
