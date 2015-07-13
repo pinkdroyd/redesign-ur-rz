@@ -1,0 +1,10 @@
+Da die Ansprechpartner im Rechenzentrum bis jetzt noch keine komplette Auflistung der Inhalte
+liefern konnten, muss eine Erfassung aller Inhalte erfolgen. Es soll ein Dokument erstellt
+werden welches Aufschluss darüber gibt, welche Inhalte sich unter den einzelnen Menüpunkten
+verbergen. Das Dokument wird in First-, Second- und Third-Level gegliedert und stellt somit eine
+vollständige Auflistung des Contents in der Breite sowie in der Tiefe dar. Die Inhaltsanalyse 
+gibt zu Beginn einen Aufschluss über die Struktur der Webseite und kann im weiteren Projektverlauf
+noch genauer definiert werden. Sie erfolgt durch manuelles Sichten der einzelnen Seiten auf der 
+RZ-Webseite. Es wurde erwogen ein automatisiertes Tool zu verwenden, da aber von einer
+Einarbeitungszeit und einer Nachbearbeitungszeit ausgegangen werden muss, wurde diese Arbeitsweise
+wieder verworfen.
