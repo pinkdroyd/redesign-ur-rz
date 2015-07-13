@@ -1,0 +1,1 @@
+Die Benutzerfriedenheit beschreibt die subjektive Wahrnehmung eines Nutzers während der Verwendung der Webseite. Benutzerzufriedenheit ist ein wichtiger Faktor, da dieser ebenfalls Einfluss auf die Bedienung der Seite hat. In diesem Test soll die Benutzerzufriedenheit mit Hilfe des attrakdiff gemessen werden.
