@@ -49,3 +49,9 @@ Komma- und Grammatikfehler
 4.2.4
 machen wir cognitive walkthrough? ansonsten nicht erwähnen
 Kommafehler
+
+5.1.1
+in Testpersonen umbenennen?
+
+5.3
+richtige Reihenfolge der Methoden?
