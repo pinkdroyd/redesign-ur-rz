@@ -1,0 +1,7 @@
+Erklärung: + bedeutet: nachfolgendes einfügen. - beudetet: nachfolgendes herausnehmen
+
+2.1
+"Webseite des Rechenzentrums der Universität +Regensburg"
+"Usability CISU-R +(NISTIR 7432) des US-amerikanisch National Institute of Standards and Technology"
+"ungeeignete Struktur der originalen Software Requirements Specification +, da in diesem Projekt keine Software sondern ein Konzept zur Informationsarchitektur entwickelt wird"
+"Somit muss-te eine Anpassung"
