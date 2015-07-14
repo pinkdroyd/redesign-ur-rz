@@ -1,6 +1,6 @@
 Erklärung: + bedeutet: nachfolgendes einfügen. - beudetet: nachfolgendes herausnehmen
 
-konsitent gegendered?
+konsitent (nicht) gegendered?
 
 2.1
 Webseite des Rechenzentrums der Universität +Regensburg
@@ -30,3 +30,22 @@ jedoch nicht übernommen werden.-, aufgrund des spezifischen Content
 
 3.6
 Vorschlag: "Endprodukt dieses Projekts ist ein Anforderungskonzept, wie die Webseite des Rechenzentrums aufgebaut werden soll. Zur Nachvollziehbarkeit der Ergebnisse wird eine Dokumentation zu allen Schritten im Projektverlauf bereitgestellt."
+
+4.1.3
+Es soll ein Dokument erstellt werden+, +das Aufschluss darüber gibt
+in der Breite+, sowie in der Tiefe dar
+
+4.2.1
+ist eine Methode+, um die Informationsarchitektur
+Endprodukt dieser Methode ist eine Menüstruktur, mit Ober- und Unterpunkten, welche die Nutzer für sinnvoll erachten. -> Produkt dieser Methode ist eine Menüstruktur mit Ober- und Unterpunkten, welche die Nutzer für sinnvoll erachten und intuitiv bedienen können.
+
+4.2.2
+Vorschlag: Ein anonymisierter Fragebogen soll Erkenntnisse zur Nutzung der Webseite liefern: welche Seiten werden von welcher Zielgruppe genutzt? Welche Funktionen sind den Nutzern bekannt? Welche Funktionen sind besonders wichtig? Welche zusätzlichen Angebote wünschen sich die Nutzer? Sind diese eventuell bereits auf der Webseite vorhanden und werden nicht gefunden? Was erachten die Nutzer als gut bzw. schlecht? Wo stoßen sie auf Probleme? Außerdem werden demographische Fragen abgefragt um weitere Informationen zur Nutzergruppencharakterisierung zu erhalten. Es ist im Sinne des Projekts nötig, eine große Anzahl an Teilnehmern zu erreichen und alle Nutzergruppen der RZ-Webseite zu erreichen. Erstellt wird der Fragebogen basierend auf Ergebnissen der Piwik- und Log-Daten-Analyse, der Contextual Inquiry, sowie der Content Analyse. Der Fragebogen soll im Idealfall per Email-Verteiler des Rechenzentrums an die Teilnehmer versendet oder auf der Webseite über einen Link zur Verfügung gestellt werden.
+
+4.2.3
+machen wir cognitive walkthrough? ansonsten nicht erwähnen
+Komma- und Grammatikfehler
+
+4.2.4
+machen wir cognitive walkthrough? ansonsten nicht erwähnen
+Kommafehler
