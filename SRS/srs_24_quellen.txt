@@ -1,9 +1,8 @@
 "Common Industry Specification for Usability–Requirements" (CISU-R) Spezifikation: http://zing.ncsl.nist.gov/iusr/documents/CISU-R-IR7432.pdf, 
 
 Industry Usability Reporting Project Working Group (2007). NISTIR 7432: Common Industry Specification for Usability - Requirements. http://www.nist.gov/customcf/get_pdf.cfm?pub_id=51179
+https://tex.stackexchange.com/questions/42501/cite-a-standard-specification-or-data-sheet-from-a-company-institution-but-with/42532#42532
 
 Contextual Inquiry: https://dl.acm.org/citation.cfm?id=227615
 
-
-
-https://tex.stackexchange.com/questions/42501/cite-a-standard-specification-or-data-sheet-from-a-company-institution-but-with/42532#42532
+Spencer, D. (2009). Card sorting: Designing usable categories. Rosenfeld Media.
