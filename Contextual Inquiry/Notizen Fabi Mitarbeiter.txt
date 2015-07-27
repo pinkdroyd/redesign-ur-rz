@@ -1,0 +1,107 @@
+##Contextual Inquiry - RZ Webseite
+
+##Proband Nr.:	1
+Alter: 			
+Geschlecht:		m
+Beruf: 			Infostand / Werkstatt / Ausleihe / Ticketsystem 
+
+Zugang über Bookmarks: Infostand und Supportseite
+Aktualisierung der Anleitungen (z.B. WLAN) über andere Browser. Übersicht verschaffen mit Opera
+Bookmark bei Benutzersuche: Lehrstuhlaccounts verwalten (Dreamspark freischalten)
+Mein RZ-Account -> Mein Konto: Infostandmitarbeiter Guthaben verbuchen, Passwort ändern
+kein Verwendung Webrpint, keine Email
+Mitarbeiterseite wird oft gebraucht (Kontaktaufnahme, "Telefonbuch"), ist umständlich, auch Bookmark
+-> dynamische Suche hinzufügen möglich
+selten Newsletter
+Administratorseiten (kein Zugang über öffentliche Seite notwendig, Newsletter -> "kündigen" = spezielle Admin seite)
+Software für Studierende -> Office / OS (Anmeldung Dreamspark, Accountverwaltung), keine Nutzung für pers. Gebrauch
+Geräteregistrierung nicht notwendig
+Support sehr wichtig, viele Änderungen durch Arbeit bedingt
+Erstellen von neue Seiten (läuft alles über das CMS)
+Anmerkung:	 Vermarktung von neuen Inhalten wichtig, z.B. Webprint wird nicht als sinnvolle Funktion erkannt
+IT-Support+ ist versteckt
+Startseite als Sprungbrett zu RZ-News, statische Liste der Newseldungen sieht langweilig aus, Slider wird bevorzugt
+Hardware-Ausleihe auch nicht genutzt
+Erstellen von Apple und Campus nur aus redaktioneller Sicht
+Support -> Drucken -> Anleitungen erstellt, nur Verlinkung von Seiten des Supports da Netzwerker auch Anleitungen erstellt, Durchführung da Zuordnung nicht ganz klar, viel Text verwirrt, Bilder fehlen von seiten der Netzer
+Anmerkung: 	Organisation der RZ-Webseite spiegelt  Struktur im RZ wieder, IT-Services ist eher Netzwerker, Support eher Hr. Weiss
+			interne Unklarheiten führen zur Trennung des Inhalts und sind für den Nutzer im Nachhinein schwer verständlich
+			nur komplette Neustruktuierung führt zu sinnvollem Ergebnisse, User-Centerd Design sehr wichtig, Single-Logon
+Verbesserungsvorschläge: Nutzersuche ähnlich dem SW-Katalog, CMS als großes Problem, Workgroupmanagersuche als Third-Level-Punkt deswegen schlecht zu finden
+						farbliche Hinterlegung der unterschieldichen Levels, Kontextbezogne Nutzung der rechten Spalte (Support -> Email -> Email schreiben -> Vorlage)
+IT-Services stellt angebotene Dienste dar (Produktpalette) jedoch vollständige Liste nicht gegeben
+Zitat zum CMS: "Es ist ja auch irgendwo. Ich weiss nur nicht wo."
+FAQs werden selbst zusammen gestellt und nicht durch Nutzer erfasst (subjektiv)
+Zugang über gekürzte Links notwendig aber keiner weiss welche vorhanden sind und wo sie liegen
+gekürzte Links für Plakate und Flyer "http://cms.uni-r.de"
+
+
+_________________
+
+##Proband Nr.:	2
+Alter: 			x
+Geschlecht:		m
+Beruf: 			Infostand
+
+Passwort ändern und Smartphone Sync
+Unterscheidung top-level / second-level nicht möglich
+Mein Konto zum Einloggen, Kontostand überprüfen
+Email / Homepage noch nie verwendet
+Meine Drucker zur Installationsanleitung
+Webprint wird nicht getraut, dass es so funktioniert weil es soll (System funktioniert nicht richtig)
+Support => Anleitungen zum Ausdrucken (FAQ komplett anders)
+CIP-Pools werden nicht unter Support gesucht, wird über Google gesucht
+CMS wird nicht genutzt
+Hard-/Software-Ausleihe wird oft genutzt (Geräteausleihe) und läuft gut
+SW-Katalog und SW für Studierende (keine Unterscheidung ohne Vorkenntnisse möglich)
+ReX wird nicht oft genutzt
+Zitat: "Lehren und Lernen keine Ahnung, hab ich noch nie benutzt"
+Mediathek wird selten genutzt
+Unser RZ wird als Mitarbeitersuche genutzt, Tel.nummern sind ausschlaggebend
+Literatur seltene Nutzung
+Klick öffnet untere Bäume, aktueller Stand des Systems ist schlecht einsehbar, Verbesserung durch anderes CMS
+durch Oberpunkt oft nicht ersichtlich welche Unterpunkte sich dahinter verbergen
+RZ-Mitarbeiter erkennt manche Funktionen nicht als solche
+
+_________________
+
+##Proband Nr.:	3
+Alter: 			x
+Geschlecht:		m
+Beruf: 			x
+
+RZ-Passwort ändern wichtig, erstes Passwort muss nach 5 Anmeldungen geändert werden, PW-Änderung ohne Kenntnisse schwer zu finden
+Google-Suche zu PW-ändern "peinlich"
+Support PW vergessen ist gute Übersicht aber an der falschen Stelle da oft unter Mein RZ-Account erwartet
+Google liefert als erstes Ergebnis richtige Seite, Uni Suche an vierter Stelle
+Support Klick an erster Stelle da übersichtlihcher 
+
+_________________
+
+##Proband Nr.:	4
+Alter: 			x
+Geschlecht:		m
+Beruf: 			Lernplattform, GRIPS, Admin, Schulung
+
+alles gebookmarkt (persönliche Präferenz, nicht weil Suche schwierig Inhalte zu finden)
+RZ-Passwort ändern, Handyservice einrichten
+Benutzerverwaltung, Frage bzgl. externer Accounts, Seite ist bekannt und deswegen gut und einfach mit umzugehen
+häufig Benutzersuche, Nutzersuche ist gut, vorheriger Login notwendig, Aufbau der externen Seite schlecht (Infos vorhanden, aber
+schlecht aufbereitet
+Seite zu GRIPS schlecht zu finden (da Bookmark)
+Unser RZ, Mitarbeiterseite nicht ansprechend und unübersichtlich (Anzahl der Mitarbeiter), Strukturierung schlecht (Trennung der Einträge)
+-> Suchfeld dynamisch, Name ist bekannt (Tel.nummer wird gesucht)
+Redundanz der Informationen auch auf der GRIPS-Seite
+Newsmeldungen chronologisch aber auch in der Zukunft
+Suchfunktion der Uni schlecht, Google wird bevorzugt
+Struktur an sich passt, wichtige Sortierung der Top-/Second-/Third-Level
+viel Information vorhanden
+!!Uni Homepage Suche Schnellnavigation als sinnvolles Feature für bestimmte Punkte
+Webmail eher seltene Nutzung
+SW-Beschaffung auch eher weniger genutzt
+"Wildwuchs" aus alten und neuen Seiten (Geräteregistrierung), Design Zusammenarbeit funktioniert nicht
+Zusammenarbeit eher schlecht und halten an Regeln eher schlecht
+HW-Ausleihe nicht
+
+
+_________________
