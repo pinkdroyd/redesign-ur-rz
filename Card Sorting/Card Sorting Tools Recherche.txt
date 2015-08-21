@@ -1,0 +1,22 @@
+##https://conceptcodify.com/
+am besten geeignet, jedoch Service eingestellt
+
+##https://www.optimalworkshop.com/optimalsort.htm
+nur 30 Cards als Free User möglich (RZ >> 30 Karten notwendig, bei Second-Level-Items)
+
+##http://www.userzoom.de/
+kostenpflichtig, wäre sehr gut geeignet, evtl. bei Jonas anfragen da Lizenz für AUE genutzt wird
+
+##http://uzilla.mozdev.org/cardsort.html
+funktioniert nur im Mozilla Browser
+
+##http://usabilitytools.com/ux-suite/
+14-tägiges Trial, aktuell beste Lösung
+
+Allgemeines:
+- aktuell einzelne 81 Elemente für Car Sorting
+- für 50 Elemente, ca. 30 Minuten; für 100 Elemente, ca. 60 Minuten (Quelle: http://www.userzoom.com/information-architecture-optimization/7-frequently-asked-questions-card-sorting/)
+- Link kann verteilt werden, breite Zielgruppe erreichbar
+- da große Zahl an Elementen, lange Dauer erwartet; Gefahr, dass viele die Zeit nicht aufwenden möchten und deshalb hohe Abbruchquote
+- Studie kann im Nachhinhein NICHT editiert werden (ux-suite)
+- Registrierung 21.08.15 ca. 10 Uhr; Daten müssen bis spätestens 03.09.15 gesichert werden
