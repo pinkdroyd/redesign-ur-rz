@@ -1,6 +1,7 @@
 <map version="freeplane 1.3.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
-<node TEXT="0" ID="ID_1723255651" CREATED="1283093380553" MODIFIED="1441870314283"><hook NAME="MapStyle">
+<node TEXT="0" ID="ID_1723255651" CREATED="1283093380553" MODIFIED="1441870314283"><hook NAME="MapStyle" zoom="0.75">
+    <properties show_note_icons="true"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node">
@@ -54,7 +55,7 @@
 <edge COLOR="#ff0000"/>
 <node TEXT="RZ-Passwort &#xe4;ndern" ID="ID_751792019" CREATED="1441869971630" MODIFIED="1441869979857"/>
 <node TEXT="RZ-Konto" ID="ID_1940107942" CREATED="1441869983337" MODIFIED="1441869985622"/>
-<node TEXT="RZ-Account mit Passwort verwenden" ID="ID_1041095115" CREATED="1441869988999" MODIFIED="1441869995571"/>
+<node TEXT="RZ-Account mit Smartphone verbinden" ID="ID_1041095115" CREATED="1441869988999" MODIFIED="1441872777933"/>
 <node TEXT="Pers&#xf6;nliche Homepage" ID="ID_468570011" CREATED="1441870000966" MODIFIED="1441870004109"/>
 <node TEXT="RZ-Passwort vergessen" ID="ID_576465163" CREATED="1441870019242" MODIFIED="1441870031311"/>
 </node>
@@ -93,7 +94,7 @@
 <edge COLOR="#00007c"/>
 <node TEXT="Infostand" ID="ID_1779496599" CREATED="1441870175017" MODIFIED="1441870177550"/>
 <node TEXT="Erweiterter IT-Support" ID="ID_916056347" CREATED="1441870205073" MODIFIED="1441870209872"/>
-<node TEXT="Netzlaufwerke und Dateidienste (z.B. Netstorage)" ID="ID_474802615" CREATED="1441870219416" MODIFIED="1441870223154"/>
+<node TEXT="Netzlaufwerke und Dateidienste (z.B. Netstorage) &amp; Speicherm&#xf6;glichkeiten" ID="ID_474802615" CREATED="1441870219416" MODIFIED="1441874392039"/>
 <node TEXT="VPN" ID="ID_943488088" CREATED="1441870234732" MODIFIED="1441870236545"/>
 </node>
 <node TEXT="WLAN und Internetzugang" POSITION="right" ID="ID_770433897" CREATED="1441869940664" MODIFIED="1441869946521">
@@ -114,10 +115,16 @@
 <node TEXT="Workgroupmanager" ID="ID_1250960717" CREATED="1441870403295" MODIFIED="1441870406940"/>
 <node TEXT="Formulare" ID="ID_1038458082" CREATED="1441869953276" MODIFIED="1441872299650"/>
 </node>
-<node TEXT="Vorlesungen und Pr&#xfc;fungen" POSITION="right" ID="ID_1085113772" CREATED="1441872426119" MODIFIED="1441872430658">
+<node TEXT="Lehre und Fortbildung" POSITION="right" ID="ID_1085113772" CREATED="1441872426119" MODIFIED="1441873601411">
 <edge COLOR="#00ff00"/>
 <node TEXT="Computergest&#xfc;tzte Pr&#xfc;fungen" ID="ID_1694458829" CREATED="1441872432662" MODIFIED="1441872441069"/>
 <node TEXT="GRIPS" ID="ID_1590563630" CREATED="1441872443409" MODIFIED="1441872444784"/>
+<node TEXT="IT-Fortbildung f&#xfc;r Bedienstete" ID="ID_165407253" CREATED="1441873778590" MODIFIED="1441873787539"/>
+<node TEXT="Videoplattform/Mediathek der Universtit&#xe4;t Regensburg" ID="ID_1888791027" CREATED="1441873972219" MODIFIED="1441873973310"/>
+<node TEXT="IT-Ausbildung f&#xfc;r Studenten" ID="ID_1285757763" CREATED="1441874046473" MODIFIED="1441874055924"/>
+<node TEXT="Aufzeichnung von Vorlesungen" ID="ID_902096288" CREATED="1441874063843" MODIFIED="1441874076895"/>
+<node TEXT="Weiterbildung im Bereich Mediengestaltung (NiceDesign4KMU)" ID="ID_1067593615" CREATED="1441874081277" MODIFIED="1441874082099"/>
+<node TEXT="Vorlesungen in der Mittagspause (Science@Lunch)" ID="ID_741542397" CREATED="1441874086508" MODIFIED="1441874088040"/>
 </node>
 </node>
 </map>
