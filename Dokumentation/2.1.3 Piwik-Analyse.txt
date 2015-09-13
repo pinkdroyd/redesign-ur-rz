@@ -25,14 +25,46 @@ Nach Rücksprache mit Michael Giesz kann auch das Rechenzentrum für dieses Prob
 Bevor mit der Analyse begonnen werden kann, muss innerhalb der Projektgruppe festgelegt werden, welche in Piwik enthaltenen Informationen, für die spätere Neustrukturierung der Webseite relevant sind und welche vernachlässigt werden können. Die Mitglieder einigen sich auf folgenden Punkte: 
 - Absprung- und Ausstiegsraten 
 - Durchschnittliche Zeit pro Aufenthalt auf der jeweiligen Seite 
-- Statistiken zu eingehenden NUtzern (Zugriff durch interene Seiten, Suchmaschinen, externe externe Seiten oder direkte Aufrufe) 
+- Statistiken zu eingehenden Nutzern (Zugriff durch interne Seiten, Suchmaschinen, externe externe Seiten oder direkte Aufrufe) 
 - Statistiken zu ausgehenden Nutzern (zu anderen internen oder externen Seiten)
 
-Hinsichtlich des Umfangs der Piwik-Analyse einigen sich die Mitglieder auf die 50 meistbesuchten RZ-Inhalte. Dabei werden zu den zehn meistbesuchten Seiten alle oben genannten Informationen aufgelistet. Für die restlichen 40 Inhalte erstellt das Projektteam eine Tabelle, worin Seitenansichten, Absprungrate, Durchschnittszeit pro Seite und die Ausstiegsrate enthalten sind. 
+Hinsichtlich des Umfangs der Piwik-Analyse einigen sich die Mitglieder auf die 50 meistbesuchten RZ-Inhalte. Dabei werden bei den zehn meistbesuchten Seiten alle oben genannten Informationen aufgelistet. Für die restlichen 40 Inhalte erstellt das Projektteam eine Tabelle, worin Seitenansichten, Absprungrate, Durchschnittszeit pro Seite und die Ausstiegsrate enthalten sind.
+Unter jeder der zehn meistbesuchten Seiten wird ein Kapitel mit "Anmerkungen" angehängt. Darin sind Auffälligkeiten, die während der Analyse aufgetreten sind, enthalten. Bei den restlichen Inhalten, die in Tabellenform dargestellt sind, sind Besonderheiten in Grün (Positive Auffälligkeit), Gelb (Neutrale Auffälligkeit) bzw. Rot (Negative Auffälligkeit) markiert. Zusätzlich wird unter der Tabelle ebenfalls ein Punkt "Anmerkungen" eingefügt. Darin stehen Erklärungen zu den oben markierten Punkten.  
 Angaben über den verwendeten Browser, Suchmaschinen, Besuche nach Serverzeit werden vernachlässigt. Als Analysezeitraum wird die Zeitspanne von 01. Juli 2014 bis 01. Juli 2015 festgelegt. 
 
 Sollten im späteren Projektverlauf noch weitere Informationen benötigt werden, werden diese natürlich ergänzt.  
 
 2.1.2.3 Ergebnisse 
-Für eine übersichtliche Aufbereitung der Inhalte wird ein eigenes Dokument erstellt. Darin sind die Informationen, wie unter Punkt 2.1.2.2 beschrieben, aufgelistet. 
-Unter jeder der zehn meistbesuchten Seiten wird ein Kapitel mit "Anmerkungen" angehängt. Darin sind Auffälligkeiten, die während der Analyse aufgetreten sind, enthalten. Bei den restlichen Inhalten, die in Tabellenform dargestellt sind, sind Besonderheiten in grün (Positive Auffälligkeit), gelb (Neutrale Auffälligkeit) bzw. rot (Negative Auffälligkeit) markiert. Zusätzlich wird unter der Tabelle ebenfalls ein Punkt "Anmerkungen" eingefügt. Darin stehen Erklärungen zu den oben markierten Punkten. 
+Im Folgenden wird ein Teil der Auffälligkeiten angeführt. Eine vollständige Auflistung ist der PDF-Datei "Ergebnisse Piwik-Analyse.pdf" zu entnehmen.
+- Unser Rechenzentrum aktuell: Der hohe Anteil der direkten Zugriffe lässt auf die Verwendung von Bookmarks schließen.
+- Mein RZ-Account: Kein Besucher ruft „Mein RZ-Account“ direkt auf. Eine mögliche Ursache könnte sein, dass die hier lediglich Informationen und Anleitungen zu finden sind. Die eigentlichen Inhalte wie „RZ-Passwort ändern“ oder „Mein Konto“ liegen eine Ebene tiefer. Ein Großteil der Besucher kommt von der Startseite des Rechenzentrums. 
+- E-Mail: Erhöhte Absprungrate auf dieser Seite. Hohe Anzahl der Nutzer öffnet nach dieser Seite weiterhin Inhalte, die im Kontext E-Mail angesiedelt sind. Daraus lässt sich folgern, dass nicht alle Benutzer die gesuchten Informationen gefunden haben. Auch eine geringe Ausstiegsrate deutet darauf hin. Geringe Anzahl an Benutzer verwendet den Link zu GroupWise.
+- Ihre universitäre E-Mail-Adresse per Web-Access benutzen: Nutzer, die auf diese Seite gelangen sind auf der Suche nach Informationen über E-Mail. Hohe Anzahl direkter Zugriffe lässt den Aufruf über Bookmarks vermuten. 65% der Nutzer, die auf diese Seite gelangen rufen im Anschluss GroupWise auf. Lässt vermuten, dass die Hauptfunktion dieser Seite der Link zu GroupWise ist.
+- Software: Softwarekatalog, Software für Studierende und Windows scheinen die Zeile der Nutzer zu sein. 14 % der Nutzer verlassen die Webseite des Rechenzentrums nach dieser Seite. Jedoch befinden sich auf dieser Seite keine essenziellen Inhalte über Software, die das Informationsbedürfnis des Nutzers befriedigt haben könnten. Deswegen wird vermutet, dass diese Nutzer hier aufgeben bzw. keine Lust mehr haben. 
+- Support: Da diese Seite keine essenziellen Informationen beinhaltet, ist die Anzahl der Ausstiege auffällig. Benutzerverwaltung, Workgroupmanager, VPN scheinen beliebte Funktionen zu sein.
+- VPN: Die hohe Zahl der direkten Aufrufe lässt Bookmarks vermuten. Jedoch navigieren auch viele Benutzer durch die Menüstruktur der Webseite. Der größte Teil der Benutzer verwendet diesen Inhalt, um den Outlink „sslgate.uni- regensburg.de“ aufzurufen. Nach dieser Seite navigieren die meisten Nutzer zu Inhalten mit einem anderen Thema. Dies lässt vermuten, dass ihr Informationsbedürfnis gestillt wurde.
+- IT-Services: E-Mail, Drucken, Datennetz und Mein RZ-Account sind beliebte Funktionen, die im Anschluss
+aufgerufen werden.Seite dient als Einführung in die Unterpunkte und wird auch so von den Besuchern wahrgenommen (Nutzer verbringen durchschnittlich nur 35 Sekunden auf dieser Seite).
+- Passwort vergessen?: Eine Ausstiegsrate von 48% lässt vermuten, dass bei vielen Besuchern das Informationsbedürfnis befriedigt bzw. das Problem gelöst wurde. Ein weiteres Indiz hierfür ist, dass die Nutzer neben „Mein RZ-Account“ keine weiteren Inhalte zu diesem Thema aufrufen. Der geringe Zugriff über Suchmaschinen überrascht.
+- Meine Drucker: Da Nutzer außer „WebPrint“ und „Drucken“ Inhalte mit einer anderen Thematik aufrufen, lässt sich annehmen, dass sie auf der Seite „Meine Drucker“ die gewünschten Informationen gefunden haben. Jedoch spricht die geringe Zahl der Ausstiege dagegen. Ein weiteres Indiz gegen das Auffinden der gesuchten Information ist die hohe Anzahl der Nutzer, die nach „Meine Drucker“ wieder zur Startseite navigieren. Dies könnte bedeuten, dass die Besucher an einer anderen Stelle suchen wollen und deshalb die Suche wieder von vorne beginnen. Die hohe Zahl der erneuten Aufrufe überrascht.
+- Softwarekatalog: Die Funktion scheint die meistverwendete Anlaufstelle für die Softwarebeschaffung zu sein. Jedoch spricht die Durchschnittszeit von 5 Minuten 47 für eine nicht-perfekte Informationsaufbereitung.
+- NTP-Zeitserver: Stellt Zugangsdaten zum NTP-Zeitserver zur Verfügung und bietet einen Link zur Physikalisch-Technischen Bundesanstalt (PTB). Eine Ausstiegsrate von 98% deutet daraufhin, dass Nutzer ihre gesuchte Information auf dieser Seite finden. Zudem lässt eine Durchschnittszeit von 24 Sekunden vermuten, dass Besucher die Information sehr schnell finden.
+- Veranstaltungen: Der Inhalt überrascht mit einer hohen Zahl an Aufrufen.
+- E-Mails versenden und empfangen: Der Inhalt besitzt mit 46 Sekunden eine sehr geringe Durchschnittszeit und mit 22% eine sehr geringe Ausstiegsrate. Dies lässt vermuten, dass die Nutzer ihre gesuchten Informationen nicht gefunden haben. 
+- Benutzersuche: Besitzt mit 7 Minuten 50s eine sehr hohe Durchschnittszeit. Da die Seite neben einem Eingabefeld keine Interaktion bietet, wird vermutet, dass hierbei ein technischer Fehler vorliegt. 
+- Mitarbeiter: Besitzt mit 3 Minuten 25 eine hohe Durchschnittszeit.
+- Software für Studierende, am Campus WLAN, Lehre und Lernen und Benutzerverwaltung: Seiten ohne wichtigen Inhalt. Sie dienen als „Top-Level-Seite“ und verlinken auf ihre Unterseiten. Davon kommen die niedrige Durchschnittszeit und die niedrige Ausstiegsrate.
+- Netstorage: Hat zwar mit 82% eine relativ hohe Ausstiegsrate. Mit einem auffälligeren Link könnte die Ausstiegsrate eventuell noch gesteigert werden.  
+- Smartphone Synchronisation: Hat mit 33% eine sehr niedrige Ausstiegsrate.
+- Windows: Besitzt mit 27% eine sehr niedrige Ausstiegsrate. 
+- Workgroupmanager: Ist eine beliebte Funktion mit sehr hoher Durchschnittszeit. Könnte eventuell durch einen besseren Aufbau noch gesenkt werden. 
+- Mit Android ins WLAN: Beim Blick auf den Inhalt stellt man fest, dass die Ausstiegsrate höher als 63% sein sollte.
+- WebPrint, Zugänge ohne Novell Client und Meine Homepage: Besitzen eine sehr niedrige Ausstiegsrate. 
+- CIP-Pools: Überrascht mit niedrigen Zugriffszahlen.  
+
+
+
+
+
+
+
