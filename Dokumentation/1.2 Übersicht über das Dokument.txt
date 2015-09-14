@@ -1,8 +1,0 @@
-
-Dieses Dokument ist in drei Kapitel unterteilt, welche wiederum Unterkapitel enthalten.Zu beginn jedes Kapitels wird eine kurze Übersicht des jeweiligen Kapitels, sowie eine allgemeinte Beschreibung vorhanden sein.
-Die drei Hauptkapitel unterteilen sich in eine allgemeine Beschreibung, die verwendeten Methoden und der Konzeption und Versuchsaufbau des Projekts.
-Die verwendeten Methoden bestehen zum einen aus der Ist-Analyse, wozu eine Piwik und Log-Daten Analyse, eine Contextual Inquiry und eine Content Analyse zählt. Zum anderen einer Anforderungsanalyse, welche sich aus dem Card Sorting, dem Fragebogen, den Personas und Szenarien und dem Protoypen zusammensetzt. Auf jede dieser verwendenten Methoden wird im Detail eingegangen und die genaue Vorgehenweiße erläutert.
-Das Kapitel der Konzeption und des Versuchsaufbaus wird für eine bessere Übersicht in vier Kapitel unterteilt. Das erste Kapitel befasst sich mit dem Nutzungskontext in welchem das Produkt verwendet und getestet wird. Das Zweite Kapitel befasst sich mit den Testmethoden welche angewandt wurden um das Produkt zu verbessern. Als Testmethoden wurden hierfür der Heuristic Walkthrough, eine Nutzerstudie und ein A-B Vergleich ausgewählt und durchgeführt. Auf jede dieser verwendenten Methoden wird im Detail eingegangen und die genaue Vorgehenweiße beschrieben. Das dritte Kapitel befasst sich mit den verwendeten Usbaility Metriken und dessen Einfluss auf das Produkt. Abschließend wird die Finale Konzeption der Struktur der Rechenzentrumswebseite behandelt. Hierbei sollen vor allem die getroffenen Desgentscheidungen rekapituliert und verteidigt werden.
-
-
-
