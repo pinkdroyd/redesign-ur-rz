@@ -1,0 +1,3 @@
+Die Webseite des Rechenzentrums bietet Informationen und Zugang zu allen Leistungen, die das Rechenzentrum anbietet. Im Rahmen dieses Projektes sollte die Informationsstruktur der Seite kritisch betrachtet und nutzerzentriert überarbeitet werden.
+Probleme des Stakeholders waren, dass die Webseite über viele Designs hinweg enstanden ist und so alte Seiten oft ohne Anpassung an das neue Layout übernommen wurden. Durch das fehlen einer zentralen Stelle für Content Management haben viele Mitarbeiter Zugriff auf das System und ändern unabhängig voneinander die Inhalte.Außerdem besteht keine zentrale Stelle für die Verwaltung der Webseite des Rechenzentrums. 
+
