@@ -1,3 +1,7 @@
-Ziel des Projekts war es die Webseite des Rechenzentrums strukturell neu zu gestalten. Im Gegensatz zur bisherigen Seite, sollte hierbei die neue Version mehr Wert auf eine nutzerorientierte Gestaltung (User Centered Design) legen. Ein wichtiger Aspekt hierbei ist die Differenzierung von Informationen und Inhalte die für den Nutzer von Bedeutung sind. Als Zielgruppen für das Projekt stehen Studierende und Mitarbeiter der Universität Regensburg im Fokus. Zu Beginn wurden für die jeweilige Nutzergruppe Anwendungsszenarien ausgearbeitet. Hieraus wurde ein konkretes Anforderungsdokument erstellt, welches eine neue Informationsarchitektur für die Webseite des Rechenzentrums beinhaltet.
-
-
+Ziel des Projekts ist es, die Webseite des Rechenzentrums strukturell neu zu gestalten. Im Gegensatz zur bisherigen Seite, soll hierbei die neue Version mehr Wert auf eine nutzerorientierte Gestaltung (User Centered Design) legen.
+Dabei vor allem darauf geachtet werden, dass nur für Nutzer relevante Inhalte auf der Seite veröffentlicht sind und die Seite so möglichst unkompliziert und sinnvoll strukturiert werden soll. Als Zielgruppen für das Projekt stehen Studierende, Dozent/innen und Mitarbeiter/innen der Universität Regensburg im Fokus.
+Das Projekt besteht im Wesentlichen aus drei Phasen:
+* Anforderungsanalyse: Zu Beginn müssen Nutzergruppen genau definiert, der Inhalt der Seite gesichtet und Anforderungen an die neue Struktur erarbeitet werden.
+* Konzeptionsphase: Unter Berücksichtigung der Ergebnisse der Anforderungsanalyse wird ein Prototyp erstellt.
+* Nutzertests: Abschließend wird das neue Design in Nutzertests überprüft und etwaige Probleme, die von Probanden erkannt wurden gelöst. Durch das Einfließen der Testergebnisse entsteht ein finaler Entwurf.
+Das Resultat dieses Projekts steht eine Handlungsempfehlung an die Administratoren der Webseite des Rechenzentrums, wie die Informationsarchitektur der Seite umstrukturiert werden muss, um kürzere Pfade, sinnvollere Benennungen und somit erhöhte Benutzerzufriedenheit zu erreichen.
