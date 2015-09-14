@@ -1,0 +1,3 @@
+Ziel des Projekts war es die Webseite des Rechenzentrums strukturell neu zu gestalten. Im Gegensatz zur bisherigen Seite, sollte hierbei die neue Version mehr Wert auf eine nutzerorientierte Gestaltung (User Centered Design) legen. Ein wichtiger Aspekt hierbei ist die Differenzierung von Informationen und Inhalte die für den Nutzer von Bedeutung sind. Als Zielgruppen für das Projekt stehen Studierende und Mitarbeiter der Universität Regensburg im Fokus. Zu Beginn wurden für die jeweilige Nutzergruppe Anwendungsszenarien ausgearbeitet. Hieraus wurde ein konkretes Anforderungsdokument erstellt, welches eine neue Informationsarchitektur für die Webseite des Rechenzentrums beinhaltet.
+
+
