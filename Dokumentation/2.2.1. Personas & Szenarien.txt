@@ -1,8 +1,13 @@
 Um den Prototypen vorab ohne Nutzer testen zu können, wurden Personas erstellt.
-Personas sind fiktive Personen, welche eine Nutzergruppe repräsentiert. Eine Persona vereint alle Eigenschaften die für diese Nutzergruppe zutreffen und hilft bei Design-Entscheidungen. Erhoben wurden diese Eigenschaften aus der Contextual Inquiry, dem Card Sorting, der Piwik Analyse und dem Fragebogen. Darauf folgend werden zu jeder Persona individuelle Szenrien erstellt. Diese Szenarien wurden ebenfalls aus den erhobenen Eigenschaften abgeleitet.
-Durch Personas und die dazugehörigen Szenarien, welche eine exemplarische Nutzung des Systems beschreiben, kann sich vorab in die Nutzer hineinversetzt werden. Dies dient dazu, im Vorfeld bereits Designentscheidungen zu treffen.
-Ergebnis dieser Methode sind sieben verschiedene Personas. Erstellt wurden diese in mehreren Schritten. Zunächst wurde festgelegt, welche Altersgruppen vertreten sein mussten. Hierbei wurde die Ergebnisse des Fragebogens, der bisherigen Umfragen und der Jahresbericht der Universität Regensburg einbezogen. Hierdruch ergab sich eine Verteilung von zwei 20 bis 30 jährigen, einem/einer 30 bis 40 jährigen/jähriger und drei 40 bis 60 jährigen. Des Weiteren ergab sich hieraus die Verteilung von drei Personas welche studieren und vier, welche Mitarbeiter der Universität Regensburg sind. Wovon jedoch wiederum zwei Lehrend und wiederum zwei Verwaltend tätig sind. Die Kombination von Alter, Geschlecht und Tätigkeit wurde zum einen ebenfalls den zuvor genannten Informationsquellen entnommen, aber auch zufällig verteilt.
-Die Hintergrundinformationen der Personas sind sowohl Kombinationen aus geführten Interviews von Studenten und Angestellten der Universität Regensburg, als auch echten Lebensläufen von Angestellten der Universität Regensburg, welche öffentlich zugänglich sind. Die Charakteristika der Personas wurden so angepasst, dass alle Eigenschaften der Nutzergruppen abgebildet werden.
-Jeder Persona wurden nach Fertigstellung der Charakteristika verschiedene Szenarien erstellt. Diese decken die von den Nutzern am häufigsten benutzten Hauptfunktionen der Webseite des Rechenzentrums ab.
-
-
+Personas sind fiktive Personen, welche eine Nutzergruppe repräsentiert. Eine Persona vereint alle Eigenschaften die für diese Nutzergruppe zutreffen. Außerdem sollen bei kritischen Fragen zu späteren Design-Entscheidungen helfen. Erhoben wurden diese Eigenschaften aus der Contextual Inquiry, dem Card Sorting, der Piwik Analyse und dem Fragebogen. Darauf folgend werden zu jeder Persona individuelle Szenarien erstellt. Diese Szenarien wurden ebenfalls aus den erhobenen Eigenschaften abgeleitet.
+Personas und die dazugehörigen Szenarien, modellieren eine exemplarische Nutzung des Systems. Dies dient dazu, im Vorfeld bereits Designentscheidungen zu bestimmten Nutzergruppen zu treffen.
+Aus den vorher angewendeten Methoden wird zunächst festgelegt, welche Altersgruppen zwingend vorhanden sein müssen. Hierdurch resultiert folgende demografische Verteilung:
+Alter:
+•	zwei 20 bis 30 Jährigen
+•	einem/einer 30 bis 40 Jährigen/Jähriger 
+•	drei 40 bis 60 Jährigen
+Beruf:
+•	drei Studierende
+•	vier Mitarbeiter der Universität (zwei Dozenten, zwei Verwaltung)
+Das Ergebnis aus dieser Methode sind sieben unterschiedliche Personas.
+Die Hintergrundinformationen der Personas sind eine Kombinationen aus Contextual Inquiry (Studierende und Angestellte der Universität Regensburg) und frei zugänglichen Lebensläufen von Angestellten der Universität Regensburg. Die Charakteristika der Personas sollen alle Eigenschaften der identifizierten Nutzergruppen abbilden. Jeder Persona werden nach Fertigstellung der Charakteristika verschiedene Szenarien zugeordnet. Diese werden aus den am häufigsten benutzten Funktionen der Webseite des Rechenzentrums abgeleitet.
