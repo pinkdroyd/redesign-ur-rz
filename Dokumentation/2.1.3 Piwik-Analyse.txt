@@ -1,5 +1,5 @@
 2.1.2 Piwik-Analyse
-Zur Auswertung von Server-Daten der aktuellen Webseite stellt das Rechenzentrum den Projektteam das Webanalytik-Werkzeug "Piwik" zur Verfügung. Hierfür erhielt die Projektgruppe am 26. Mai 2015 eine Einführung in die wichtigsten Funktionen. Anzumerken ist, dass eine manuelle Auswertung der Server-Daten wird nicht mehr durchgeführt wird, da alle relevanten Informationen aus der Software "Piwik" zu entnehmen sind. 
+Zur Auswertung von Server-Daten der aktuellen Webseite stellt das Rechenzentrum dem Projektteam das Webanalytik-Werkzeug "Piwik" zur Verfügung. Hierfür erhielt die Projektgruppe am 26. Mai 2015 eine Einführung in die wichtigsten Funktionen. Anzumerken ist, dass eine manuelle Auswertung der Server-Daten nicht mehr durchgeführt wird, da alle relevanten Informationen aus der Software "Piwik" zu entnehmen sind. 
 
 2.1.2.1 Definition Piwik 
 Bei Piwik handelt es sich um ein Open-Source-Programm, welches im Bereich Webanalytik Anwendung findet. Der Funktionsumfang umfasst: 
@@ -9,14 +9,14 @@ Bei Piwik handelt es sich um ein Open-Source-Programm, welches im Bereich Webana
 4. Referreranalyse
 5. Zieldefinition
 6. Mandantenfähigkeit für mehrere Websites
-7. Kampagnen- und Zieltracking für den Ecommerce
+7. Kampagnen- und Zieltracking für den E-Commerce
 8. Anonymisierung der IP-Adresse zum Datenschutz
 9. Clients für Android und iOS 
 (http://piwik.org/features/ + https://de.wikipedia.org/wiki/Piwik)
 
 Im Vergleich mit Google Analytics hat Piwik den Vorteil, die datenschutzrechtlich sensiblen Logdaten auf dem eigenen Server zu speichern. In Deutschland ist Piwik nach Google Analytics das meistverwendete Webanalytik-Werkzeug (https://de.wikipedia.org/wiki/Piwik). 
 
-Während der Auswertung der Daten stellt das Projektteam fest, dass wichtige und häufig verwendete Funktionen der Webseite wie "Passwort ändern" oder "Passwort zurücksetzen" (siehe 2.1.2 Contextual Inquiry) nicht aufgelistet werden. Somit stehen keine Daten, wie Seitenaufrufe oder Besucheranalysen zur verfügung. Der Grund hierfür ist, dass Piwik keine Inhalt, die mit "HTTPS" (https://de.wikipedia.org/wiki/Hypertext_Transfer_Protocol_Secure) übertragen werden, erfassen kann. Für detailliertere Informationen zu dieser Thematik sind bereits unter folgenden Adressen zahlreiche Foreneinträge zu finden: 
+Während der Auswertung der Daten stellt das Projektteam fest, dass wichtige und häufig verwendete Funktionen der Webseite wie "Passwort ändern" oder "Passwort zurücksetzen" (siehe 2.1.2 Contextual Inquiry) nicht aufgelistet werden. Somit stehen keine Daten, wie Seitenaufrufe oder Besucheranalysen zur Verfügung. Der Grund hierfür ist, dass Piwik keine Inhalt, die mit "HTTPS" (https://de.wikipedia.org/wiki/Hypertext_Transfer_Protocol_Secure) übertragen werden, erfassen kann. Für detailliertere Informationen zu dieser Thematik sind bereits unter folgenden Adressen zahlreiche Foreneinträge zu finden: 
 - http://forum.piwik.org/read.php?5,86844
 - http://piwik.org/faq/general/faq_68/ 
 Nach Rücksprache mit Michael Giesz kann auch das Rechenzentrum für dieses Problem keine Lösung anbieten. Jedoch ist es möglich durch Methoden, wie Contextual Inquiry oder Fragebogen, die fehlenden Informationen zu beschaffen. 
@@ -25,11 +25,11 @@ Nach Rücksprache mit Michael Giesz kann auch das Rechenzentrum für dieses Prob
 Bevor mit der Analyse begonnen werden kann, muss innerhalb der Projektgruppe festgelegt werden, welche in Piwik enthaltenen Informationen, für die spätere Neustrukturierung der Webseite relevant sind und welche vernachlässigt werden können. Die Mitglieder einigen sich auf folgenden Punkte: 
 - Absprung- und Ausstiegsraten 
 - Durchschnittliche Zeit pro Aufenthalt auf der jeweiligen Seite 
-- Statistiken zu eingehenden Nutzern (Zugriff durch interne Seiten, Suchmaschinen, externe externe Seiten oder direkte Aufrufe) 
+- Statistiken zu eingehenden Nutzern (Zugriff durch interne Seiten, Suchmaschinen, externe Seiten oder direkte Aufrufe) 
 - Statistiken zu ausgehenden Nutzern (zu anderen internen oder externen Seiten)
 
 Hinsichtlich des Umfangs der Piwik-Analyse einigen sich die Mitglieder auf die 50 meistbesuchten RZ-Inhalte. Dabei werden bei den zehn meistbesuchten Seiten alle oben genannten Informationen aufgelistet. Für die restlichen 40 Inhalte erstellt das Projektteam eine Tabelle, worin Seitenansichten, Absprungrate, Durchschnittszeit pro Seite und die Ausstiegsrate enthalten sind.
-Unter jeder der zehn meistbesuchten Seiten wird ein Kapitel mit "Anmerkungen" angehängt. Darin sind Auffälligkeiten, die während der Analyse aufgetreten sind, enthalten. Bei den restlichen Inhalten, die in Tabellenform dargestellt sind, sind Besonderheiten in Grün (Positive Auffälligkeit), Gelb (Neutrale Auffälligkeit) bzw. Rot (Negative Auffälligkeit) markiert. Zusätzlich wird unter der Tabelle ebenfalls ein Punkt "Anmerkungen" eingefügt. Darin stehen Erklärungen zu den oben markierten Punkten.  
+Unter jeder der zehn meistbesuchten Seiten wird ein Kapitel mit "Anmerkungen" angehängt. Darin sind Auffälligkeiten, die während der Analyse aufgetreten sind, enthalten. Bei den restlichen Inhalten, die in Tabellenform dargestellt sind, sind Besonderheiten in Grün (Positive Auffälligkeit), Gelb (Neutrale Auffälligkeit) bzw. Rot (Negative Auffälligkeit) markiert. Zusätzlich wird unter der Tabelle ebenfalls ein Punkt "Anmerkungen" eingefügt. Darin finden sich Erklärungen zu den oben markierten Punkten.  
 Angaben über den verwendeten Browser, Suchmaschinen, Besuche nach Serverzeit werden vernachlässigt. Als Analysezeitraum wird die Zeitspanne von 01. Juli 2014 bis 01. Juli 2015 festgelegt. 
 
 Sollten im späteren Projektverlauf noch weitere Informationen benötigt werden, werden diese natürlich ergänzt.  
@@ -40,11 +40,11 @@ Im Folgenden wird ein Teil der Auffälligkeiten angeführt. Eine vollständige A
 - Mein RZ-Account: Kein Besucher ruft „Mein RZ-Account“ direkt auf. Eine mögliche Ursache könnte sein, dass die hier lediglich Informationen und Anleitungen zu finden sind. Die eigentlichen Inhalte wie „RZ-Passwort ändern“ oder „Mein Konto“ liegen eine Ebene tiefer. Ein Großteil der Besucher kommt von der Startseite des Rechenzentrums. 
 - E-Mail: Erhöhte Absprungrate auf dieser Seite. Hohe Anzahl der Nutzer öffnet nach dieser Seite weiterhin Inhalte, die im Kontext E-Mail angesiedelt sind. Daraus lässt sich folgern, dass nicht alle Benutzer die gesuchten Informationen gefunden haben. Auch eine geringe Ausstiegsrate deutet darauf hin. Geringe Anzahl an Benutzer verwendet den Link zu GroupWise.
 - Ihre universitäre E-Mail-Adresse per Web-Access benutzen: Nutzer, die auf diese Seite gelangen sind auf der Suche nach Informationen über E-Mail. Hohe Anzahl direkter Zugriffe lässt den Aufruf über Bookmarks vermuten. 65% der Nutzer, die auf diese Seite gelangen rufen im Anschluss GroupWise auf. Lässt vermuten, dass die Hauptfunktion dieser Seite der Link zu GroupWise ist.
-- Software: Softwarekatalog, Software für Studierende und Windows scheinen die Zeile der Nutzer zu sein. 14 % der Nutzer verlassen die Webseite des Rechenzentrums nach dieser Seite. Jedoch befinden sich auf dieser Seite keine essenziellen Inhalte über Software, die das Informationsbedürfnis des Nutzers befriedigt haben könnten. Deswegen wird vermutet, dass diese Nutzer hier aufgeben bzw. keine Lust mehr haben. 
+- Software: Softwarekatalog, Software für Studierende und Windows scheinen die Ziele der Nutzer zu sein. 14 % der Nutzer verlassen die Webseite des Rechenzentrums nach dieser Seite. Jedoch befinden sich auf dieser Seite keine essenziellen Inhalte über Software, die das Informationsbedürfnis des Nutzers befriedigt haben könnten. Deswegen wird vermutet, dass diese Nutzer hier aufgeben bzw. keine Lust mehr haben. 
 - Support: Da diese Seite keine essenziellen Informationen beinhaltet, ist die Anzahl der Ausstiege auffällig. Benutzerverwaltung, Workgroupmanager, VPN scheinen beliebte Funktionen zu sein.
 - VPN: Die hohe Zahl der direkten Aufrufe lässt Bookmarks vermuten. Jedoch navigieren auch viele Benutzer durch die Menüstruktur der Webseite. Der größte Teil der Benutzer verwendet diesen Inhalt, um den Outlink „sslgate.uni- regensburg.de“ aufzurufen. Nach dieser Seite navigieren die meisten Nutzer zu Inhalten mit einem anderen Thema. Dies lässt vermuten, dass ihr Informationsbedürfnis gestillt wurde.
 - IT-Services: E-Mail, Drucken, Datennetz und Mein RZ-Account sind beliebte Funktionen, die im Anschluss
-aufgerufen werden.Seite dient als Einführung in die Unterpunkte und wird auch so von den Besuchern wahrgenommen (Nutzer verbringen durchschnittlich nur 35 Sekunden auf dieser Seite).
+aufgerufen werden. Seite dient als Einführung in die Unterpunkte und wird auch so von den Besuchern wahrgenommen (Nutzer verbringen durchschnittlich nur 35 Sekunden auf dieser Seite).
 - Passwort vergessen?: Eine Ausstiegsrate von 48% lässt vermuten, dass bei vielen Besuchern das Informationsbedürfnis befriedigt bzw. das Problem gelöst wurde. Ein weiteres Indiz hierfür ist, dass die Nutzer neben „Mein RZ-Account“ keine weiteren Inhalte zu diesem Thema aufrufen. Der geringe Zugriff über Suchmaschinen überrascht.
 - Meine Drucker: Da Nutzer außer „WebPrint“ und „Drucken“ Inhalte mit einer anderen Thematik aufrufen, lässt sich annehmen, dass sie auf der Seite „Meine Drucker“ die gewünschten Informationen gefunden haben. Jedoch spricht die geringe Zahl der Ausstiege dagegen. Ein weiteres Indiz gegen das Auffinden der gesuchten Information ist die hohe Anzahl der Nutzer, die nach „Meine Drucker“ wieder zur Startseite navigieren. Dies könnte bedeuten, dass die Besucher an einer anderen Stelle suchen wollen und deshalb die Suche wieder von vorne beginnen. Die hohe Zahl der erneuten Aufrufe überrascht.
 - Softwarekatalog: Die Funktion scheint die meistverwendete Anlaufstelle für die Softwarebeschaffung zu sein. Jedoch spricht die Durchschnittszeit von 5 Minuten 47 für eine nicht-perfekte Informationsaufbereitung.
