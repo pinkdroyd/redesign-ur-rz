@@ -1,5 +1,0 @@
-1 Einführung
-1.1 Zweck des Dokuments
-Diese Dokumentation soll einen Überblick über den Verlauf des Projektes "Relaunch der RZ-Webseite" liefern. Dadurch soll ein besseres Verständnis für das fertige Produkt durch Einsicht in verwendete Praktiken erreicht werden. Ebenso soll das Dokument als Begründung für getroffene Entscheidungen dienen und so die Transparenz des Projektes erhöhen. Zu diesem Zweck werden sämtliche verwendete Methoden, daraus resultierende (Zwischen-) Ergebnisse und aufgetretene Probleme detailliert beschrieben.
-
-1.2 Übersicht über das Dokument
