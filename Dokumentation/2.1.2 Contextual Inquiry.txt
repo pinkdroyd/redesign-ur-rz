@@ -9,4 +9,5 @@ Für eine übersichtliche Auflistung der Ergebnisse wird ein Excel-Dokument (CI-
 Nachdem alle Daten eingetragen wurden, wird für jede Spalte eine Zeile mit "Summe" und eine Zeile mit "prozentuale Nutzung" berechnet, die angeben, wie oft die Funktion insgesamt verwendet wird. Für eine bessere Übersichtlichkeit werden die Zeilen mit "Summe" und "prozentuale Nutzung" farbig markiert. 
 Zusammenfassend lässt sich festhalten, dass Funktionen wie RZ-Passwort ändern (100%), Software (60%), WLAN (60%), Geräteregistrierung (80%), Druckerguthaben (45%) am häufigsten verwendet werden. Hingegen suchen die Probanden Informationen über Linux (5%), Smartphone Sync (5%), Apple on Campus (5%) eher selten. Hierbei ist jedoch anzumerken, dass das alleinige Auftreten der Funktionen in dieser Contextual Inquiry für eine häuifge Benutzung spricht. 
 
-2.1.2.3 Ergebnisse von Mitarbeitern 
+2.1.2.3 Ergebnisse von Mitarbeitern
+ 
