@@ -11,7 +11,7 @@ Zusammenfassend lässt sich festhalten, dass Funktionen wie RZ-Passwort ändern 
 Zusätzlich erstellt das Projektteam ein Dokument (Anmerkungen CI-Studenten Auswertung.pdf), in dem alle Anmerkungen und Auffälligkeiten während und nach der Durchführung zusammengetragen werden. 
 
 2.1.2.3 Ergebnisse von Mitarbeitern
-Ähnlich wie bei der Testgruppe "Studenten" wird für die Auswertung der Contextual Inquiry mit Mitarbeitern ebenfalls ein Dokument (CI-Mitarbeiter Auswertung.pdf) erstellt. Darin sind alle Funktionen aufgelistet, welche die Mitarbeiter während des Tests angegeben haben. Zusätzlich enthält der Punkt "Anmerkungen" noch wichtige Aussagen der Mitarbeiter des Rechenzentrums. 
+Ähnlich wie unter Punkt 2.1.2.3 wird für die Auswertung der Contextual Inquiry mit Mitarbeitern ebenfalls ein Dokument (CI-Mitarbeiter Auswertung.pdf) erstellt. Darin sind alle Funktionen aufgelistet, welche die Mitarbeiter während des Tests angegeben hatten. Zusätzlich enthält der Punkt "Anmerkungen" wichtige Aussagen der Mitarbeiter des Rechenzentrums. 
 Eine Unterteilung in zwei Dateien (Auswertung und Anmerkungen), wie bei der Contextual Inquiry mit Studenten wird als nicht notwendig empfunden, da mit einer Testgruppe von sechs Personen nur eine begrenzte Datenmenge erhoben werden konnte. 
 
  
