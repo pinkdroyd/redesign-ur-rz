@@ -1,0 +1,42 @@
+2.1.5 Card Sorting
+Beim Card Sorting werden von Probanden vorgegebene Begriffe selbstständig und möglichst ohne äußere Einflüsse in für sie sinnvollen Kategorien gesammelt. Diesen Kategorien werden Namen zugewiesen, die die beinhalteten Begriffe möglichst aussagekräftig zusammenfassen. So entstehen bei mehreren Testpersonen mehr oder weniger ähnliche Strukturen. Ziel dieser Methode ist es, diese Strukturen, die von echten Nutzern erstellt wurden, einen sinnvollen Kompromiss aus allen Ergebnissen und so eine intuitive Gliederung der Elemente zu erreichen.
+
+2.1.5.1 Vorbereitung und Durchführung
+Sämtliche Begriffe, die die Probanden sortieren sollen, werden der zweiten Ebene der Navigation der aktuellen Webseite des Rechenzentrums entnommen. So werden keine zu allgemeinen bzw. zu spezifischen Begriffe in das Card Sorting mit aufgenommen. Da sich in der dritten Ebene nur weitere Spezifikationen der zweiten Ebene befinden, werden diese hier nicht berücksichtigt. So ergeben sich für das Card Sorting insgesamt 74 Begriffe.
+
+[BILD: beispiel begriffe navigation.jpg]
+Bildunterschrift: Beispiel der Auswahl in der Menüstruktur: Nur Begriffe der zweiten Menüebene werden berücksichtigt.
+
+Das Card Sorting wird im Internet auf der Seite usabilitytools.com gehostet. Vor der eigentlichen Studie wird mit einem kurzen Text das Projekt, die Methode des Card Sortings, sowie das Ziel der Methode erklärt. Bei der Durchführung des Sortierens befinden sich alle unverwendeten Begriffe in einer Spalte am linken Bildschirmrad, durch Drag-and-Drop lassen sie sich in eine neue oder bereits ertellte Gruppe ziehen. Die Gruppen lassen sich durch einen Klick auf den Namen benennen. Bevor die Nutzer den Test beginnen werden folgende Daten abgefragt (analog zum Fragebogen, jedoch nur mit allgemeiner Abfrage des Tätigkeitsbereichs und ohne Frage zur Vorkenntnis des Webseite des Rechenzentrums):
+* Alter
+* Geschlecht
+* Tätigkeitsbereich an der Universität Regensburg (falls vorhanden)
+
+2.1.5.3 Ergebnisse
+Analog zu allen Ergebnissen in dieser Dokumentation soll dieses Kapitel lediglich einen kurzen Überblick über die Ergebnisse des Card Sortings geben. Eine exakte Auflistung und Darstellung der Resultate kann dem Dokument "Ergebnisse Card Sorting.pdf" entnommen werden. 
+
+An der Studie nehmen insgesamt 18 Testpersonen teil, von denen jedoch nur zehn Personen die Ergebnisse absenden. Die restlichen acht Teilnehmer brechen ab, ohne das Resultat abzuschicken.
+
+Von den zehn Teilnehmern sind neun Studenten an der Universität Regensburg, eine Person ist kein Mitglied der Universität. Sechs Personen sind männlich, vier weiblich. Das Durchschnittsalter der Teilnehmer liegt bei 23,4 Jahre.
+
+Acht der zehn Teilnehmer können alle Begriffe einer Kategorie zuordnen, zwei Teilnehmer senden die Ergebnisse mit neun bzw. 17 nicht zugeordneten Begriffen ab. Es lässt sich leider nicht feststellen, ob diese absichtlich oder versehentlich nicht zugewiesen wurden.
+
+Die durchschnittliche Anzahl der Kategorien aller Teilnehmer beträgt 12,4. Der Proband mit den wenigsten Gruppen unterteilt alle Begriffe in lediglich sechs Kategorien, die meisten Kategorien erstellten zwei Teilnehmer mit jeweils 17. Daher fällt es in Einzelfällen schwer, Begriffe möglichst ganzheitlich in eine Kategorie zu fassen, da diese unterschiedlich umfassend gestaltet sind. Jedoch lassen sich nach der Sichtung und Analyse der Daten folgende von den meisten der Teilnehmer erstellten Kategorien feststellen:
+* Mein RZ-Account
+* Drucken
+* E-Mail
+* CIP-Pools
+* Support
+* Sonstiges
+* Internetzugang
+* Dienste
+* Workgroupmanager
+* Software
+* Hardware
+* Datenlaufwerke
+* IT-Aus- und Fortbildung
+* Serverdienste
+* Allgemeines zum Rechenzentrum
+Diese Liste stellt keinen endgültigen Aufbau der Neugestaltung an, sondern spiegelt eine erste Erkenntnis aus den Daten des Card Sortings dar.
+
+Eine Teilnehmerin benennt die gewählten Kategorien nicht und eine weitere Teilnehmerin verwendet teilweise unbrauchbare Namen wie "must have, interessiert aber niemanden". Erkenntnisse aus diesen Gruppierungen Ergebnisse werden jedoch auch mit in die Ergebnisse aufgenommen, lediglich die unbrauchbaren Namen werden nicht verwendet.
