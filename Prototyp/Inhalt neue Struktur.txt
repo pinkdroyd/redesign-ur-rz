@@ -11,6 +11,7 @@ Drucken & Fax: IT-Services -> Drucken (Quicklink Guthabenkonto)
 
 Dienste: Infostand (Info aus Unterpúnkten auf eine Seite) / (Shop, Slider statt Reiter; Team Geschichte zu Über uns)
 		 IT-Support+ übernehmen
+		 Dienste -> VPN: Info kopieren, Unterseite in Slider
 
 Hardware: Einkauf (Tabs durch Slider ersetzen)
 
@@ -21,8 +22,6 @@ Software: Creative Cloud entfernen / absetzen, Infos übernehmen
 Lehre u. Fortbildung: GRIPS info übernehmen (Link präsenter)
 					  Vorlesungsaufzeichnung Info übernehmen (Link präsenter, Tabs ersetzen, Mailadressen anders hervorheben)
 					  Mediathek info übernehmen (Link präsenter)
-
-Dienste -> VPN: Info kopieren, Unterseite in Slider
 
 CIP-Pools neuer Untermenüpunkt "Anleitungen"
 CIP-Pools Resrvierung als Untermenü löschen
