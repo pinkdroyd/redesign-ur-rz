@@ -12,7 +12,7 @@ Das Card Sorting wird im Internet auf der Seite usabilitytools.com gehostet. Vor
 * Geschlecht
 * Tätigkeitsbereich an der Universität Regensburg (falls vorhanden)
 
-2.1.5.3 Ergebnisse
+2.1.5.2 Ergebnisse
 Analog zu allen Ergebnissen in dieser Dokumentation soll dieses Kapitel lediglich einen kurzen Überblick über die Ergebnisse des Card Sortings geben. Eine exakte Auflistung und Darstellung der Resultate kann dem Dokument "Ergebnisse Card Sorting.pdf" entnommen werden. 
 
 An der Studie nehmen insgesamt 18 Testpersonen teil, von denen jedoch nur zehn Personen die Ergebnisse absenden. Die restlichen acht Teilnehmer brechen ab, ohne das Resultat abzuschicken.
