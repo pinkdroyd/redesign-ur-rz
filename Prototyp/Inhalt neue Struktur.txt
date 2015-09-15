@@ -1,0 +1,34 @@
+E-Mail: Support -> Email + Mein RZ-Acc -> Email zusammefassen
+		E-Mail - senden /empfangen -> 3 verdeckte Texte mit Mailprogrammen + Link auf Webmail
+		E-Mail - Groupwise: IT-Services -> E-mail + IT-Services Groupwise 
+		E-Mail - Sicherheit / Spam -> zusammenfassen mit verdeckter Text
+		E-Mail - Archivierung -> übernehmen
+
+
+Drucken & Fax: IT-Services -> Drucken (Quicklink Guthabenkonto)
+			Unterpunkte übernehmen
+			Mein RZ-Account -> Webprint (Links deutlicher)
+
+Dienste: Infostand (Info aus Unterpúnkten auf eine Seite) / (Shop, Slider statt Reiter; Team Geschichte zu Über uns)
+		 IT-Support+ übernehmen
+
+Hardware: Einkauf (Tabs durch Slider ersetzen)
+
+Software: Creative Cloud entfernen / absetzen, Infos übernehmen
+			Betriebssysteme: 3 Slider mit Info für jedes Betriebssystem (Windows + Linux kopieren, Apple leer)
+
+
+Lehre u. Fortbildung: GRIPS info übernehmen (Link präsenter)
+					  Vorlesungsaufzeichnung Info übernehmen (Link präsenter, Tabs ersetzen, Mailadressen anders hervorheben)
+					  Mediathek info übernehmen (Link präsenter)
+
+Dienste -> VPN: Info kopieren, Unterseite in Slider
+
+CIP-Pools neuer Untermenüpunkt "Anleitungen"
+CIP-Pools Resrvierung als Untermenü löschen
+CIP-Pools: Standortsuche + Reservierung
+CIP-Pools -> Anleitungen: Support -> CIP-Pools Untermenüs zusammenfassen in Slider
+CIP-Pools -> Ausstattung HW + SW zusammenfassen, Slider einfügen
+
+
+			
