@@ -77,3 +77,32 @@ Zusammenfassung:
 - Über uns und Dokumente sind bessere Bezeichnungen als "Unser Rechenzentrum" und "Literatur"
 - Möglicherweise verwirrt die Topnavigation (zu viele verschiedene Navigationen)
 - Rechte Spalte immer Karte, manchmal Kontakt, Suche oben rechts 
+
+
+OTH Regensburg:
+Menü:
+- Anleitungen: 
+	1. Dateidienste (Netzlaufwerke, Windows-Paket, Datei und Ordner wiederherstellen)
+	2. Drucken an der OTH 
+	3. E-Mailsystmee => Externer Link
+	4. Netzdienste: private Webseiten, WLAN, LAN, VPN, Internet im Wohnheim
+- CIP-Pools: Betreuer, Öffnungszeiten, Raumgebelegung, Lagepläne 
+- Services: Support Ansprechpartner (Studierende, Professoren)
+	1. Antragsformulare  (Accounts für Netzzugang: Benutzeranträge für Hochschulangehörige, Benutzeranträge für externe, Änderungen am RZ-Account, E-Mail-Anträge)
+	2. CD/DVD-Recycling
+	3. eSkripte
+	4. Elearning
+	5. QIS (Online Service Center) 
+	6. RZ Account / Passwort ändern
+	7. Software
+	8. Stundenplan (WebUnits)
+	9. Zertifikate 
+- Mitteilungen 
+- Kontakt 
+
+Zusammenfassung: 
+- Geringer Funktionsumfang
+- Keine alleinstehende Seite: In Webseite der OTH eingebunden 
+
+
+
