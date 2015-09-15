@@ -24,13 +24,15 @@ c)
 Da ihr Postfach aufgrund der vielen E-Mails voll ist und Sie nicht alle E-Mails aussortieren wollen, erkundigen Sie sich über die Archivierung von E-Mails.
 
 
-Szenario 3: ( Hardware und Software ) 
+Szenario 3: ( Hardware und Software, VPN) 
 
 a)
 Sie benötigen einen neuen Laptop und beschließen diesen über das Rechenzentrum zu kaufen. Suchen Sie einen passenden Rechner aus dem Sortiment des Rechenzentrums aus.
 b)
-Nachdem Sie ihren Laptop abgeholt haben, wurde ihnen noch von den Mitarbeitern mitgeteilt, dass man sowohl das Betriebssystem als auch viele benötigte Software kostenlos zu Verfügung gestellt bekommt. Informieren Sie sich nach dem Betreibssystem Mircosoft Windows 8.1 und laden Sie es herunter. ( fertig bei Weiterleitung zu Dreamspark)
-c) 
+Nachdem Sie ihren Laptop abgeholt haben, wurde ihnen noch von den Mitarbeitern mitgeteilt, dass man sowohl das Betriebssystem als auch viele benötigte Software kostenlos zu Verfügung gestellt bekommt. Um jedoch von zu Hause aus auf diesen Service zugreifen zu können benötigen Sie Zugriff via VPN. Informieren Sie sich über die Funktionsweiße des VPN.
+c)
+Informieren Sie sich nach dem Betreibssystem Mircosoft Windows 8.1 und laden Sie es herunter. ( fertig bei Weiterleitung zu Dreamspark)
+d) 
 Da Sie bereits mit der Installation von Windows viele Probleme hatten und sich vom Support helfen lassen mussten, erkundigen Sie sich nach dem erweiterten IT-Support des Rechenzentrums. 
 
 
@@ -39,11 +41,17 @@ Szenario 4: (Dienste,Lehre und Fortbildung, Verwaltung)
 a)
 Sie haben die Aufgabe dieses Semester einen Kurs zu halten. Informieren Sie sich hierfür wie Sie Zugang zur Plattform GRIPS erlangen.
 b)
+Außerdem benötigen Sie für ihren Kurs einen CIP-Pool, in welchem Eclipse bereits vorinstalliert ist. Suchen Sie nach einem passenden CIP-Pool hierfür
+c)
 Damit die Studenten Ihre Vorlesung auch im nachhinein ansehen können, beschließen Sie sich die Qualität dieser Aufzeichnungen anzusehen.
-c) 
+d) 
 Sie sind von der Qualität der Videos überzeugt und erkundigen sich deshalb wie man seine Vorlesungen aufzeichnen lässt.
-d)
-Ihre erste Vorlesung wurde erfolgreich aufgezeichnet und alles verlief reibungslos. Jedoch können sie das Video nicht in der Mediathek finden. Sie suchen nach der Telefonnummer von Herrn Florian Bogner, welcher für die Betreung der Mediathek zuständig ist, um ihr Problem zu lösen.
+
+
+
+
+
+
 
 Anmerkungen: 
 
