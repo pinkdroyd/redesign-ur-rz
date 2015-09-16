@@ -40,7 +40,7 @@ Auffälligkeiten:
 	-wirkt besser Strukturiert als Rgb RZ Seite
 
 
-Universität Frankfurt (rz.uni-frankfurt.de):
+Universität Frankfurt (rz.uni-frankfurt.de/hrz) (breit):
 Gliederungspunkte:
 - Service Center
 - Goethe Card => Directlink zu HRZ-Account und PW ändern
@@ -79,7 +79,7 @@ Zusammenfassung:
 - Rechte Spalte immer Karte, manchmal Kontakt, Suche oben rechts 
 
 
-OTH Regensburg:
+OTH Regensburg (breit):
 Menü:
 - Anleitungen: 
 	1. Dateidienste (Netzlaufwerke, Windows-Paket, Datei und Ordner wiederherstellen)
