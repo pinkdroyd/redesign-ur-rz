@@ -1,7 +1,7 @@
 <map version="freeplane 1.3.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
 <node TEXT="root" ID="ID_1723255651" CREATED="1283093380553" MODIFIED="1442301293450"><hook NAME="MapStyle" zoom="0.825">
-    <properties show_note_icons="true" show_icon_for_attributes="true"/>
+    <properties show_icon_for_attributes="true" show_note_icons="true"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node">
@@ -122,7 +122,6 @@
 <node TEXT="RAS &amp; SSH" ID="ID_371675725" CREATED="1441893461815" MODIFIED="1441893471028"/>
 <node TEXT="Dateiversand via E-Mail" ID="ID_811637180" CREATED="1441893473708" MODIFIED="1441893479436"/>
 </node>
-<node TEXT="VPN (21)" ID="ID_943488088" CREATED="1441870234732" MODIFIED="1441884912826"/>
 <node TEXT="Formularscannerservice (54)" ID="ID_1272693274" CREATED="1441875420042" MODIFIED="1441884924340"/>
 <node TEXT="NTP-Zeitserver (55)" ID="ID_1943471488" CREATED="1441875644041" MODIFIED="1441884929630"/>
 <node TEXT="Scientific Computing und High Performance Computing (Athene) (56)" ID="ID_1866334653" CREATED="1441875830194" MODIFIED="1441884933916"/>
@@ -141,8 +140,9 @@
 </node>
 <node TEXT="WLAN und Internetzugang" POSITION="right" ID="ID_770433897" CREATED="1441869940664" MODIFIED="1441869946521">
 <edge COLOR="#007c00"/>
-<node TEXT="Internet im Wohnheim (17)" ID="ID_1379046742" CREATED="1441870192615" MODIFIED="1441884968013"/>
 <node TEXT="WLAN-Nutzung der Universit&#xe4;t Regensburg (22)" ID="ID_1245377829" CREATED="1441870260757" MODIFIED="1441884973221"/>
+<node TEXT="VPN (21)" ID="ID_943488088" CREATED="1441870234732" MODIFIED="1441884912826"/>
+<node TEXT="Internet im Wohnheim (17)" ID="ID_1379046742" CREATED="1441870192615" MODIFIED="1441884968013"/>
 <node TEXT="Digitale Zertifikate (50)" ID="ID_1288853056" CREATED="1441874816992" MODIFIED="1441884994689"/>
 </node>
 <node TEXT="CIP-Pools (10, 39)" POSITION="right" ID="ID_1144884299" CREATED="1441869929468" MODIFIED="1442303388069">
