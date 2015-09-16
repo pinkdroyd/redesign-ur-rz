@@ -23,11 +23,34 @@ Lehre u. Fortbildung: GRIPS info übernehmen (Link präsenter)
 					  Vorlesungsaufzeichnung Info übernehmen (Link präsenter, Tabs ersetzen, Mailadressen anders hervorheben)
 					  Mediathek info übernehmen (Link präsenter)
 
+____________________________________________________________________________________________________________________________
+
 CIP-Pools neuer Untermenüpunkt "Anleitungen"
 CIP-Pools Resrvierung als Untermenü löschen
 CIP-Pools: Standortsuche + Reservierung
 CIP-Pools -> Anleitungen: Support -> CIP-Pools Untermenüs zusammenfassen in Slider
 CIP-Pools -> Ausstattung HW + SW zusammenfassen, Slider einfügen
+
+Oberpunkte:
+Hardware
+Dienste
+WLAN & Internetzugang
+CIP-Pools
+Verwaltung
+Über uns
+FAQ
+
+zweite Ebene:
+Softwarebeschaffung: kopieren
+Software: Softwarebeschaffung entfernen
+
+___________________________________________________________________________________________________________________________
+
+rechte Spalte: Anmeldung, Überschrift, Bild, E-Mail Adresse, Tel.Nummer
+
+
+
+
 
 
 			
