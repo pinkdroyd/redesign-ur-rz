@@ -1,3 +1,16 @@
 2.1.1 Konkurrenzanalyse
 
 Zu Beginn des Projekts wird bei einer Konkurrenzanalyse nicht nur die Webseite des Rechenzentrums der Universität Regensburg überblickt und grob analysiert, sondern zusätzlich auch vergleichbare Internetangebote der vier größten deutschen Universitäten, vier international bekannter Hochschulen, sowie der OTH Regensburg.
+Dabei wird vor allem Wert darauf gelegt, ob die Navigation eher tief oder breit angelegt ist und welche sonstigen besonderen Merkmale (positiv und negativ) auffallen.
+Das Vorgehen entspricht hierbei dem der zweiten Phase eines Heuristic Walkthroughs: ein Experte sucht frei ohne Tasks auf der Seite nach beliebigen Informationen und erforscht diese ohne ein spezielles Nutzungsziel. Während der Nutzung werden Notizen zu positiven und negativen Aspekten angefertigt. So entsteht eine überschaubare Wissensbasis ("DOs & DONTs") bezüglich gleichartiger Webseiten, die später in die Neugestaltung einfließen können.
+Die nachfolgenden Ergebnisse stellen eine Zusammenfassung dar, eine ausführliche Beschreibung befindet sich im Dokument "Ergebnisse Konkurrenzanalyse.pdf".
+
+2.1.1.1 Universität Regensburg
+In einem ersten Schritt wird erkannt, dass die Struktur der Webseite des Rechenzentrums der Universität Regensburg sowohl breit, als auch tief angelegt ist. Identische Informationen finden sich dabei an verschiedenen Stellen auf der Seite, was zu Verwirrung bei der Benutzung führt. Ebenso ist die Navigationsstruktur eher breit (durch "nur" drei Menüebenen), jedoch hinterlassen externe Verlinkungen und Tabs auf einzelnen Seiten den Eindruck einer tiefen Struktur. Dies führ
+
+2.1.1.2 Konkurrenz national
+Als nationale Konkurrenz werden die Universitäten mit den Studierenden ausgesucht. Dazu zählen die Fernuniversität Hagen, Ludwig-Maximilians-Universität München, Universität Köln, Johann Wolfgang Goethe-Universität Frankfurt am Main und Universität zu Köln, sowie die Ostbayerische Technische Hochschule Regensburg als "lokale" Konkurrenz.
+Die Navigationsstruktur der Seiten ist teils tief (Hagen und München) und teils breit (Köln, Frankfurt, OTH Regensburg). Für die OTH existiert keine eigenständige Webseite für das Rechenzentrum, stattdessen ist sie in das Menü der gesamten Webseite eingebaut. Äuffällig bei allen anderen Seiten ist, dass Quicklinks entweder global für die gesamte Rechenzentrums-Seite oder für die jeweiligen Unterpunkte der Navigation präsent dargestellt sind.
+
+2.1.1.3 Konkurrenz international
+International werden die University of Cambridge, University of Oxford und die Université Paris-Sorbonne untersucht. Die Rechenzentrumsseite der Pariser Universität kann leider nicht gefunden werden, stattdessen wird die Harvard University analysiert. Von diesen Seiten besitzen zwei eine breite (Oxford und Harvard) und eine eine tiefe (Cambridge) Menüstruktur. Alle drei Seiten sind eher unübersichtlich und bieten keine konkreten Verbesserungsvorschläge, die der Regensburger Rechenzentrumsseite positiv dienen können.
