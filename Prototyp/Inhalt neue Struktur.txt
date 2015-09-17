@@ -48,6 +48,13 @@ ________________________________________________________________________________
 
 rechte Spalte: Anmeldung, Überschrift, Bild, E-Mail Adresse, Tel.Nummer
 
+___________________________________________________________________________________________________________________________
+
+Dienste -> Webdienste des RZ: Untermenüpunkte auf alter Seite? (3. Ebene)
+Formulare -> sammeln aller Formulare notwendig
+Software -> Webserver-Dokumentation (übertragen notwendig?)	
+Unser RZ -> Mitarbeiter (Suche?)
+
 
 
 
