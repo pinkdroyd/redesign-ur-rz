@@ -52,8 +52,10 @@ ________________________________________________________________________________
 
 Dienste -> Webdienste des RZ: Untermenüpunkte auf alter Seite? (3. Ebene)
 Formulare -> sammeln aller Formulare notwendig
-Software -> Webserver-Dokumentation (übertragen notwendig?)	
+Software -> Webserver-Dokumentation (übertragen notwendig?)	=> wurde von Software zu Dienste/Webdienste des RZ verschoben. Inhalt leer. 
 Unser RZ -> Mitarbeiter (Suche?)
+CIP-Pools Ausstattung 
+
 
 
 
