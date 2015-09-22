@@ -5,31 +5,31 @@ Sie befinden sich auf der Rechenzentrumswebseite auf der Startseite.
 Szenario 1: (Profil)
 
 a)
-Ändern Sie das Passwort ihres Kontos. (erfüllt bei Zugriff auf Passwort)
+Ändern Sie das Passwort Ihres Kontos. (erfüllt bei Zugriff auf Passwort)
 b)
-Anschließend informieren Sie sich, wie viel Geld noch auf ihrem Druckkonto vorhanden ist. (erfüllt bei Zugriff auf mein Konto)
+Anschließend informieren Sie sich, wie viel Geld noch auf Ihrem Druckkonto vorhanden ist. (erfüllt bei Zugriff auf mein Konto)
 c)
 Sie haben ihr Passwort vergessen und müssen nun zum Infostand. Informieren Sie sich über die Öffnungszeiten.
 d)
-Damit Sie beim nächsten mal nicht wieder zum Infostand müssen, richten Sie sich den SMS-Service ein.
+Damit Sie beim nächsten mal nicht wieder zum Infostand müssen, richten Sie sich den SMS-Passwortservice ein.
 
 
 Szenario 2: (E-Mail)
 
 a)
-Informieren Sie sich darüber, wie Sie E-Mails über ihre Universitäts-Emailadresse verfassen.
+Informieren Sie sich darüber, wie Sie E-Mails über Ihre Universitäts-Emailadresse verfassen.
 b)
-Sie haben bisher auf ihre E-Mails über den Browser zugegriffen. Informieren Sie sich, wie Sie Ihr Konto mit Outlook verbinden.
+Sie haben bisher auf Ihre E-Mails über den Browser zugegriffen. Informieren Sie sich, wie Sie Ihr Konto mit Outlook verbinden.
 c)
-Da ihr Postfach aufgrund der vielen E-Mails voll ist und Sie nicht alle E-Mails aussortieren wollen, erkundigen Sie sich über die Archivierung von E-Mails.
+Da Ihr Postfach aufgrund der vielen E-Mails voll ist und Sie nicht alle E-Mails aussortieren wollen, erkundigen Sie sich über die Archivierung von E-Mails.
 
 
 Szenario 3: (Hardware und Software, VPN) 
 
 a)
-Sie benötigen einen neuen Laptop und beschließen diesen über das Rechenzentrum zu kaufen. Suchen Sie einen passenden Rechner aus dem Sortiment des Rechenzentrums aus.
+Sie benötigen einen neuen Laptop und beschließen, diesen über das Rechenzentrum zu kaufen. Suchen Sie einen passenden Rechner aus dem Sortiment des Rechenzentrums aus.
 b)
-Nachdem Sie ihren Laptop abgeholt haben, wurde ihnen noch von den Mitarbeitern mitgeteilt, dass man sowohl das Betriebssystem als auch viele benötigte Software kostenlos zu Verfügung gestellt bekommt. Um jedoch von zu Hause aus auf diesen Service zugreifen zu können benötigen Sie Zugriff via VPN. Informieren Sie sich über die Funktionsweise des VPN.
+Nachdem Sie Ihren Laptop abgeholt haben, wurde Ihnen noch von den Mitarbeitern mitgeteilt, dass man sowohl das Betriebssystem als auch viele benötigte Software kostenlos zu Verfügung gestellt bekommt. Um jedoch von zu Hause aus auf diesen Service zugreifen zu können, benötigen Sie Zugriff via VPN. Informieren Sie sich über die Funktionsweise des VPN.
 c)
 Informieren Sie sich nach dem Betriebssystem Mircosoft Windows 8.1 und laden Sie es herunter. ( fertig bei Weiterleitung zu Dreamspark)
 d) 
@@ -43,17 +43,6 @@ Sie haben dieses Semester die Aufgabe, einen Kurs zu halten. Informieren Sie sic
 b)
 Außerdem benötigen Sie für ihren Kurs einen CIP-Pool, in welchem Eclipse bereits vorinstalliert ist. Suchen Sie nach einem passenden CIP-Pool hierfür
 c)
-Damit die Studenten Ihre Vorlesung auch im Nachhinein ansehen können, beschließen Sie sich die Qualität dieser Aufzeichnungen anzusehen.
+Da Sie überlegen, Ihre Vorlesungen aufzeichnen zu lassen und ihren Kursteilnehmern im Internet zur Verfügung zu stellen, möchten Sie sich über die Qualität solcher Aufzeichnungen des Rechenzentrums informieren. Sehen Sie sich dafür eine aufgezeichnete Vorlesung an.
 d) 
 Sie sind von der Qualität der Videos überzeugt und erkundigen sich deshalb wie man seine Vorlesungen aufzeichnen lässt.
-
-
-
-
-
-
-
-Anmerkungen: 
-- zu Task 3a): wo kann Laptop bestellt/gekauft werden?
-- 4c) muss umformuliert werden
-
