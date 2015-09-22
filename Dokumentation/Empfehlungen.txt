@@ -1,4 +1,6 @@
 Empfehlungen für die neue RZ-Webseite
 
-1. Bessere Information der neuen Studenten (CI-Ergebnisse zeigen Studenten wissen nicht was das Rechenzentrum anbietet), 
+1. Update des CMS bzw. neues CMS
+2. Bessere Information der neuen Studenten (CI-Ergebnisse zeigen Studenten wissen nicht was das Rechenzentrum anbietet), 
 bessere Aufklärung zu Leistungen des RZ
+3. rechte Spalte nutzen zum globalen Login, Ansprechpartner für angezeigte Themengebiete und Öffnungszeiten der zuständigen Stelle
