@@ -11,7 +11,7 @@ Anschließend informieren Sie sich, wie viel Geld noch auf Ihrem Druckkonto vorh
 c)
 Sie haben ihr Passwort vergessen und müssen nun zum Infostand. Informieren Sie sich über die Öffnungszeiten.
 d)
-Damit Sie beim nächsten mal nicht wieder zum Infostand müssen, richten Sie sich den SMS-Passwortservice ein.
+Damit Sie beim nächsten mal nicht wieder zum Infostand müssen, hinterlegen Sie Ihre Handynummer beim SMS-Passwortservice.
 
 
 Szenario 2: (E-Mail)
@@ -31,7 +31,7 @@ Sie benötigen einen neuen Laptop und beschließen, diesen über das Rechenzentr
 b)
 Nachdem Sie Ihren Laptop abgeholt haben, wurde Ihnen noch von den Mitarbeitern mitgeteilt, dass man sowohl das Betriebssystem als auch viele benötigte Software kostenlos zu Verfügung gestellt bekommt. Um jedoch von zu Hause aus auf diesen Service zugreifen zu können, benötigen Sie Zugriff via VPN. Informieren Sie sich über die Funktionsweise des VPN.
 c)
-Informieren Sie sich nach dem Betriebssystem Mircosoft Windows 8.1 und laden Sie es herunter. ( fertig bei Weiterleitung zu Dreamspark)
+Informieren Sie sich über das Betriebssystem Mircosoft Windows 8.1 und laden Sie es herunter. ( fertig bei Weiterleitung zu Dreamspark)
 d) 
 Da Sie bereits mit der Installation von Windows viele Probleme hatten und sich vom Support helfen lassen mussten, erkundigen Sie sich nach dem erweiterten IT-Support des Rechenzentrums. 
 
