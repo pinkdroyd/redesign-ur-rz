@@ -41,7 +41,7 @@ Szenario 4: (Dienste, Lehre und Fortbildung, Verwaltung)
 a)
 Sie haben dieses Semester die Aufgabe, einen Kurs zu halten. Informieren Sie sich hierfür, wie Sie Zugang zur Plattform GRIPS erlangen.
 b)
-Außerdem benötigen Sie für ihren Kurs einen CIP-Pool, in welchem Eclipse bereits vorinstalliert ist. Suchen Sie nach einem passenden CIP-Pool hierfür
+Außerdem benötigen Sie für Ihren Kurs einen CIP-Pool, in welchem Eclipse bereits vorinstalliert ist. Suchen Sie nach einem passenden CIP-Pool hierfür
 c)
 Da Sie überlegen, Ihre Vorlesungen aufzeichnen zu lassen und ihren Kursteilnehmern im Internet zur Verfügung zu stellen, möchten Sie sich über die Qualität solcher Aufzeichnungen des Rechenzentrums informieren. Sehen Sie sich dafür eine aufgezeichnete Vorlesung an.
 d) 
