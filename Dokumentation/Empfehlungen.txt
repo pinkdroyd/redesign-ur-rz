@@ -4,3 +4,9 @@ Empfehlungen für die neue RZ-Webseite
 2. Bessere Information der neuen Studenten (CI-Ergebnisse zeigen Studenten wissen nicht was das Rechenzentrum anbietet), 
 bessere Aufklärung zu Leistungen des RZ
 3. rechte Spalte nutzen zum globalen Login, Ansprechpartner für angezeigte Themengebiete und Öffnungszeiten der zuständigen Stelle
+4. Nutzergruppen-orientierte Gestaltung der kompletten RZ-Seite: Inhalte auf vier verschiedene Gruppen, Studenten, Dozenten, Angestellte und Externe
+abstimmen, für jede Gruppe eigene Struktur mit relevanten Informationen anbieten (Umsetzung durch CMS nicht möglich)
+5. Suchfelder auf der Seite müssen einheitliche Funktionalität besitzen, Live-Suche ähnlich dem Softwarekatalog für alle Suchfelder implementieren
+6. Redaktionelle Prozesse müssen überarbeitet werden: keine Inhaltserstellung durch jeden ermöglichen, ein Veranwortlicher der Inhalte freischaltet,
+vermeiden von Unklarheiten über Zuständigkeitsbereiche, Organisationsstruktur vom Inhalt entkoppeln, Inhalte sollten Menüpunkten zugeordnet nicht Abteilungen
+
