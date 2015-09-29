@@ -1,0 +1,3 @@
+2.2.3 Grenzen des Prototyps
+
+Aufgrund von technischer Umsetzbarkeit und zeitlichem Aufwand können im Rahmen des Prototypens nicht alle, für eine komplette Überarbeitung der ursprünglichen Rechenzentrums-Webseite, notwendigen Arbeiten umgesetzt werden.	
