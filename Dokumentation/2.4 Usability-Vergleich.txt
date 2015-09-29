@@ -1,0 +1,43 @@
+2.4 Usability-Vergleich
+In einer A-B-Studie wird der fertige Prototyp mit der ursprünglichen Seite verglichen. Dieser Test ist als Guerilla-Test ausgelegt, wobei vor allem qualitatives Feedback und die Anzahl der Fehler, die die Probanden bei der Durchführung der Tasks machen, im Vordergrund stehen. Nachfolgend werden zuerst die Tasks erklärt, sowie Aufbau und Durchführung der Tests. Abschließend werden die Ergebnisse präsentiert.
+
+2.4.1 Tasks
+Um einen möglichst repräsentativen Test zu schaffen, werden die Funktionen der Webseite getestet, die in der Analyse als meistbenutzt hervorgegangen sind. Diese werden in vier Szenarien mit jeweils drei bzw. vier Aufgaben gegliedert. Ausgangspunkt des Tests ist die Startseite der Webseite.
+
+- Szenario 1:
+	a) Ändern Sie das Passwort Ihres Kontos.
+	b) Anschließend informieren Sie sich, wie viel Geld noch auf Ihrem Druckkonto vorhanden ist.
+	c) Sie haben ihr Passwort vergessen und müssen nun zum Infostand. Informieren Sie sich über die Öffnungszeiten.
+	d) Damit Sie beim nächsten mal nicht wieder zum Infostand müssen, hinterlegen Sie Ihre Handynummer beim SMS-Passwortservice.
+
+ - Szenario 2:
+	a) Informieren Sie sich darüber, wie Sie E-Mails über Ihre Universitäts-Emailadresse verfassen.
+	b) Sie haben bisher auf Ihre E-Mails über den Browser zugegriffen. Informieren Sie sich, wie Sie Ihr Konto mit Outlook verbinden.
+	c) Da Ihr Postfach aufgrund der vielen E-Mails voll ist und Sie nicht alle E-Mails aussortieren wollen, erkundigen Sie sich über die Archivierung von E-Mails.
+
+ - Szenario 3:
+	a) Sie benötigen einen neuen Laptop und beschließen, diesen über das Rechenzentrum zu kaufen. Suchen Sie einen passenden Rechner aus dem Sortiment des Rechenzentrums aus.
+	b) Nachdem Sie Ihren Laptop abgeholt haben, wurde Ihnen noch von den Mitarbeitern mitgeteilt, dass man sowohl das Betriebssystem als auch viele benötigte Software kostenlos zu Verfügung gestellt bekommt. Um jedoch von zu Hause aus auf diesen Service zugreifen zu können, benötigen Sie Zugriff via VPN. Informieren Sie sich über die Funktionsweise des VPN.
+	c) Informieren Sie sich über das Betriebssystem Microsoft Windows 8.1 und laden Sie es herunter.
+	d) Da Sie bereits mit der Installation von Windows viele Probleme hatten und sich vom Support helfen lassen mussten, erkundigen Sie sich nach dem erweiterten IT-Support des Rechenzentrums. 
+
+ - Szenario 4:
+	a) Sie haben dieses Semester die Aufgabe, einen Kurs zu halten. Informieren Sie sich hierfür, wie Sie Zugang zur Plattform GRIPS erlangen.
+	b) Außerdem benötigen Sie für Ihren Kurs einen CIP-Pool, in welchem Eclipse bereits vorinstalliert ist. Suchen Sie nach einem passenden CIP-Pool hierfür
+	c) Da Sie überlegen, Ihre Vorlesungen aufzeichnen zu lassen und ihren Kursteilnehmern im Internet zur Verfügung zu stellen, möchten Sie sich über die Qualität solcher Aufzeichnungen des Rechenzentrums informieren. Sehen Sie sich dafür eine aufgezeichnete Vorlesung an.
+	d) Sie sind von der Qualität der Videos überzeugt und erkundigen sich deshalb wie man seine Vorlesungen aufzeichnen lässt.
+
+
+2.4.2 Testaufbau
+Der Test findet in Anwesenheit einer Versuchsperson, einem Testmoderator, der die Probanden in der Versuch einführt, die Tasks vorliest und nach dem Test die Fragebögen reicht, sowie einen Beobachter, der sowohl die Fehler des Probanden, als auch dessen positive und negative Äußerungen notiert.
+Der Proband absolviert die Tasks auf einem 15 Zoll großen Notebook in einem Versuchsraum.
+
+2.4.3 Testdurchführung
+Zuerst erfolgt in entspannter Atmosphäre eine kurze Einführung in die Ziele des Projektes. Dabei wird jedoch kein Hinweis gegeben, ob der Proband die ursprüngliche oder erneuerte Webseite testen, um diesen nicht zu beeinflussen.
+Nach dem Test werden die Probanden gebeten, zwei Fragebogen auszufüllen: den System Usability Scale zur Messung der Usability, sowie den AttrakDiff zur Messung der pragmatischen und hedonischen Qualität der Seite.
+
+2.4.4 Probanden
+
+
+2.4.5 Ergebnisse des Tests
+
