@@ -1,4 +1,6 @@
 2.1.1 Content Analyse
+Damit eine Klassifikation und Weiterverarbeitung der Information der ursprünglichen Webseite des Rechenzentrums erfolgen konnte muss zuerst eine Content-Analyse erfolgen. Mit dieser Methode werden alle Inhalte der Seite erfasst und in eine übersichtliche Form gebracht.
+
 2.1.1.1 Definition
 Unter dem Begriff Content Analyse können zahlreiche Methoden der Geisteswissenschaft sowie der Informationstechnologie zur Erfassung von praktischer Information zusammengefasst werden. In diesem Projekt soll sie einen Ansatz liefern, die vorhandene Information, welche sich auf der Rechenzentrums-Webseite befindet, in eine sinnvolle und übersichtliche Struktur zu überführen. Die Ergebnisse der Content Analyse sollen eine Möglichkeit schaffen, vorhandene Inhalte einfach und schnell miteinander abzugleichen, um enthaltene Redundanzen und wenig genutzte Themenbereiche sinnvoll zu bearbeiten. Des Weiteren soll sie als Entscheidungshilfe zur Priorisierung bei strittigen Entscheidungen bezüglich des Inhalts dienen. 
 
