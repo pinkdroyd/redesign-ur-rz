@@ -1,0 +1,29 @@
+ToDo Doku: 
+
+2.2 Konzeption und Design Prototypen: techn. Hintergrund, Imperia, Schulung
+2.2.2 Bild "neue Struktur" einfügen und erklären Designentscheidungen.pdf einfügen und umschreiben
+2.2.3 Grenzen des Prototyp:
+		- Desgin durch Imperia festgelegt
+		- dynamische Elemente nur durch aufwendige Javascript-Programmierung umzusetzen
+		-> rechte Spalte Login, Softwarekatalog, PW ändern / Passwortservice, Mitarbeitersuche, Smartphonesync, CIP-Suche / Reservierung
+		- Linkverweise im Inhalt
+		- Inhaltsmigration 
+		- User-centerd Design
+
+2.3. Heuristic Walkthrough
+2.3.1 Durchführung
+2.3.2 Ergebnisse
+
+2.4 Usablity-Vergleich
+2.4.1 Tasks
+2.4.2 Testaufbau
+2.4.3 Testdurchführung
+2.4.4. Ergebnisse des Tests
+
+2.5. Überarbeitung des Prototypen: VPN
+
+3. Projektabschluss
+
+
+TODO Sonstiges: 
+Präsi vorbereiten
