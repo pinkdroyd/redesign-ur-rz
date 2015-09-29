@@ -52,6 +52,8 @@ Die Ergebnisse des AttrakDiff zeigen ebenso ein eindeutiges Bild (siehe Bild: ve
 
 Bilder einfügen: vergleich.png, diagramm mittelwerte.png, profil wortpaare.png
 
+Sämtliche quantitativen Ergebnisse sind aufgrund der kleinen Stichprobengröße mit Vorsicht zu genießen, zeigen allerdings einen prinzipiellen Trend auf.
+
 2.5.5.2 Qualitative Ergebnisse
 Während des Nutzertests hatten mehrere Probanden Probleme damit, in der neuen Struktur Informationen über den Aspkekt "VPN" zu finden. Dieser war im getetesten Prototypen im Menüpunkt "Software" aufgelistet, wurde jedoch von den Testpersonen als erstes unter "WLAN und Internetzugang" gesucht. 
 Eine weitere Auffälligkeit war, dass die Probanden den Menüpunkt "Passwort-Service" nicht mit dem Inhalt "SMS-Passwortservice" in Verbindung bringen konnten.
