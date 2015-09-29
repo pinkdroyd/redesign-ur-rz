@@ -1,0 +1,14 @@
+2.4. Heuristic Walkthrough
+Vor dem Usability-Test mit Probanden wird die Struktur des Probanden von Usability-Experten in einem Heuristic Walkthrough getestet. Diese versetzen sich dabei in die Lage "realer" Nutzer und sollen so etwaige Usability-Fehler finden. Die Durchführung und Ergebnisse dieser Tests wird in diesem Kapitel beschrieben.
+
+2.4.1 Durchführung
+Wie bereits erwähnt wird ein Heuristic Walkthrough von in diesem Fall zwei Usability-Experten durchgeführt. Dieser ist unterteilt in zwei Phasen: Zuerst arbeiten die Teilnehmer eine Reihe vorgebener Tasks ab. Diese sind hier identisch zu den Tasks aus den abschließenden Nutzertests (SIEHE 2.5.1). Dabei werden folgende Fragen stets im Auge behalten (Sears, 1997, S. 219-221) (Sears, A. (1997). Heuristic Walkthroughs: Finding the Problems Without the Noise. International Journal of Human-Computer Interaction, 9 (3), 213–234. Zugriff am 30.09.2015 auf http://www.tandfonline.com/doi/pdf/10.1207/s15327590ijhc0903_2):
+ - Wissen Nutzer, was sie als nächstes tun müssen?
+ - Wissen Nutzer, dass es ein Kontrollelement (z.B. einen Button oder ein Menü) gibt, das es ihnen erlaubt, den nächsten Teil der Aufgabe zu erledigen?
+ - Nachdem Nutzer dieses Element gefunden haben, wissen sie wie man dieses bedient (z.B. darauf klicken, Doppelklick, Auswahlmenü)?
+ - Wenn Nutzer die richtige Aktion ausführen, sehen sie, dass Fortschritt zum Fertigstellen der Aufgabe gemacht wird? Liefert das System angemessen Rückmeldung?
+In der zweiten Phase wird das System ohne vorgegebene Aufgaben frei erkundet. Dabei orientieren sich die Teilnehmer an den zehn Usability-Heuristiken nach Nielsen (1994) und suchen nach Verstößen gegen diese.
+Während des gesamten Tests werden Probleme sofort nachvollziehbar notiert und mit einem Schweregrad von 0 ("Dies stellt kein Usability-Problem dar.") bis 4 (Usability-Katastrophe) versehen (Nielsen, 1994, S. 49, Tabelle 2.3) (Nielsen, J. (1994). Heuristic evaluation. In J. Nielsen & R. Mack (Hrsg.), Usability Inspection Methods (Bd. 17, S. 25–62). New York: Wiley & Sons. Zugriff am 30.09.2015 auf http://www.nngroup.com/books/usability).
+
+2.4.2 Ergebnisse
+Beide Teilnehmer fanden insgesamt 15 Probleme, davon elf einmalige. Das schwerwiegenste gefundene Problem hierbei war das "Verstecken" 2 des "SMS-Passwortservices" im Menüeintrag "Passwort vergessen". Zusätzlich wurde festgestellt, dass der Link zum Download (DreamSpark) unter Betriebssysteme - Windows zu sehr im Text untergeht und überlesen wird. Ebenso wurde festgestellt, dass der Task 4b) (Suche eines CIP-Pools mit bestimmter Software) nur sehr unintuitiv gelöst werden kann, dies jedoch an der Inhaltsstruktur und fehlenden Funktionen liegt. Ein weiteres Problem, das auffiel, ist dass der Newsletter des Rechenzentrums als "RZettel" auf Flyern und Plakaten beworben wird, in der Menüstruktur jedoch nur als "Newsletter" benannt ist.
