@@ -43,22 +43,30 @@ Da in einem vorhergehenden Stakeholdermeeting klar wurde, dass das Rechenzentrum
 Nachfolgend werden die Ergebnisse der Tests - unterteilt in quantitative und qualitative Daten - berichtet.
 
 2.5.5.1 Quantitative Ergebnisse
-Als quantitative Ergebnisse werden Fehler beim Lösen der 15 Aufgaben (SIEHE 2.4.1) erhoben. Hier ist anzumerken, dass jeder Klick, der nicht dem oder einem möglichen Lösungsweg entspricht, als Fehler gewertet wird.
-Insgesamt erzielten die Probanden der ursprünglichen Seite 157 Fehler, bei der neuen Version wurden nur 16 (?!?!?!?!?!?!) Fehler gemessen.
+Als quantitative Ergebnisse werden Fehler beim Lösen der 15 Aufgaben (SIEHE 2.5.1) erhoben. Hier ist anzumerken, dass jeder Klick, der nicht dem oder einem möglichen Lösungsweg entspricht, als Fehler gewertet wird.
+Insgesamt erzielten die Probanden der ursprünglichen Seite 177 Fehler, bei der neuen Version wurden nur 48 Fehler gemessen. Dies bedeutet, dass im Durchschnitt jeder Proband bei der Benutzung der ursprünglichen Seite 25,3 Fehler verteilt auf alle 15 Aufgaben machte. Der Prototyp stellt mit durchschnittlich 6,9 Fehler eine deutliche Verbesserung darstellt.
 
-Der System Usability Score ...
+Der System Usability Scale, der in einem Fragebogen von zehn Fragen erhoben wird, gibt numerische Auskunft über die Usability eines Systems und lässt es so zu, Systeme zu vergleichen. Er liefert Werte zwischen 0 und 100 - dabei lassen sich folgende Aussagen bezüglich der Bewertung treffen: 
+- Ein Wert von 100 entsprechen einem perfekten System ohne Usability-Probleme.
+- Werte über 80 deuten auf eine gute bis exzellente Usability hin.
+- Werte zwischen 60 und 80 sind als grenzwertig bis gut zu interpretieren.
+- Werte unter 60 sind Hinweise auf erhebliche Usability-Probleme.
+Der Wert für die ursprüngliche Seite liegt auf dieser Skala bei 25,36, was ein Hinweis auf bedeutende Probleme ist. Die einzelnen Wertungen liegen hierbei zwischen 5,00 und 42,50 (SIEHE RZ O einzeln.png). Ein Wert von 68,93 für den Prototypen spricht für eine deutlich bessere Usability, jedoch für noch kein ideales System. Die einzelnen Bewertungen hier liegen zwischen 32,50 und 90,00 (SIEHE RZ 1 einzeln.png).
 
-Die Ergebnisse des AttrakDiff zeigen ebenso ein eindeutiges Bild (siehe Bild: vergleich.png). Das Diagramm der Mittelwerte (siehe Bild: diagramm mittelwerte.png) und die einzelnen Wortpaare (siehe Bild: profil wortpaare.png) bestätigen eine deutliche Verbesserung der Struktur der Webseite und eine gestiegene Zufriedenheit der Nutzer. Während der AttrakDiff die pragmatische Qualität der "alten" Webseite mit "muss dringend überarbeitet werden" beschreibt, sieht er beim neuen Prototypen lediglich Verbesserungspotential der Bedienbarkeit. Hier sei anzumerken, dass keine ideale Benutzerfreundlichkeit aufgrund der Beschränkungen durch das CMS Imperia erreicht werden kann (SIEHE 2.3.3).
+Bilder einfügen: RZ O einzeln.png, RZ 1 einzeln.png
+
+Die Ergebnisse des AttrakDiff zeigen ebenso ein eindeutiges Bild (siehe Bild: vergleich.png). Das Diagramm der Mittelwerte (siehe Bild: diagramm mittelwerte.png) und die einzelnen Wortpaare (siehe Bild: profil wortpaare.png) bestätigen eine deutliche Verbesserung der Struktur der Webseite und eine gestiegene Zufriedenheit der Nutzer. Während der AttrakDiff die pragmatische Qualität der "alten" Webseite mit "muss dringend überarbeitet werden" beschreibt, sieht er beim neuen Prototypen lediglich Verbesserungspotential der Bedienbarkeit.
 
 Bilder einfügen: vergleich.png, diagramm mittelwerte.png, profil wortpaare.png
 
-Sämtliche quantitativen Ergebnisse sind aufgrund der kleinen Stichprobengröße mit Vorsicht zu genießen, zeigen allerdings einen prinzipiellen Trend auf.
+Hier sei anzumerken, dass keine ideale Benutzerfreundlichkeit aufgrund der Beschränkungen durch das CMS Imperia erreicht werden kann (SIEHE 2.3.3). Sämtliche quantitativen Ergebnisse sind aufgrund der kleinen Stichprobengröße mit Vorsicht zu genießen, zeigen allerdings einen prinzipiellen Trend auf.
 
 2.5.5.2 Qualitative Ergebnisse
 Während des Nutzertests hatten mehrere Probanden Probleme damit, in der neuen Struktur Informationen über den Aspkekt "VPN" zu finden. Dieser war im getetesten Prototypen im Menüpunkt "Software" aufgelistet, wurde jedoch von den Testpersonen als erstes unter "WLAN und Internetzugang" gesucht. 
 Eine weitere Auffälligkeit war, dass die Probanden den Menüpunkt "Passwort-Service" nicht mit dem Inhalt "SMS-Passwortservice" in Verbindung bringen konnten.
 Ebenso wurden die "Vorlesungsaufzeichnungen" von den meisten Probanden unter "Diensten" vermutet.
-Für die Umsetzung dieser Vorschläge SIEHE 2.5.
+Für die Umsetzung dieser Vorschläge SIEHE 2.6.
 Positiv wurden beim Prototypen vor allem eine zentrale Anlaufstelle für E-Mails (in der ursprünglichen Seite gibt es drei Menüpunkte auf zweiter Ebene mit dem Namen "E-Mail") und eine klare Benennung der Top-Level-Kategorien.
 
 2.5.5.3 Zusammenfassung der Ergebnisse
+Basierend auf diesen Ergebnisse lässt sich ein klares Fazit ziehen: Der in diesem Projekt mit bewährten Methoden entwickelte Prototyp schneidet im direkten Vergleich mit der ursprünglichen Webseite deutlich besser ab. Diese Aussage kann basierend auf dem AttrakDiff, dem System Usability Scale, der Anzahl der Fehler, der Äußerungen der Nutzer und schließlich auch basierend auf den für die Erstellung der Struktur verwendeten Methoden gemacht werden.
