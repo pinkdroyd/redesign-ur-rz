@@ -1,7 +1,7 @@
-2.4 Usability-Vergleich
+2.5 Usability-Vergleich
 In einer A-B-Studie wird der fertige Prototyp mit der ursprünglichen Seite verglichen. Dieser Test ist als Guerilla-Test ausgelegt, wobei vor allem qualitatives Feedback und die Anzahl der Fehler, die die Probanden bei der Durchführung der Tasks machen, im Vordergrund stehen. Nachfolgend werden zuerst die Tasks erklärt, sowie Aufbau und Durchführung der Tests. Abschließend werden die Ergebnisse präsentiert.
 
-2.4.1 Tasks
+2.5.1 Tasks
 Um einen möglichst repräsentativen Test zu schaffen, werden die Funktionen der Webseite getestet, die in der Analyse als meistbenutzt hervorgegangen sind. Diese werden in vier Szenarien mit jeweils drei bzw. vier Aufgaben gegliedert. Ausgangspunkt des Tests ist die Startseite der Webseite.
 
 - Szenario 1:
@@ -28,16 +28,35 @@ Um einen möglichst repräsentativen Test zu schaffen, werden die Funktionen der
 	d) Sie sind von der Qualität der Videos überzeugt und erkundigen sich deshalb wie man seine Vorlesungen aufzeichnen lässt.
 
 
-2.4.2 Testaufbau
+2.5.2 Testaufbau
 Der Test findet in Anwesenheit einer Versuchsperson, einem Testmoderator, der die Probanden in der Versuch einführt, die Tasks vorliest und nach dem Test die Fragebögen reicht, sowie einen Beobachter, der sowohl die Fehler des Probanden, als auch dessen positive und negative Äußerungen notiert.
 Der Proband absolviert die Tasks auf einem 15 Zoll großen Notebook in einem Versuchsraum.
 
-2.4.3 Testdurchführung
+2.5.3 Testdurchführung
 Zuerst erfolgt in entspannter Atmosphäre eine kurze Einführung in die Ziele des Projektes. Dabei wird jedoch kein Hinweis gegeben, ob der Proband die ursprüngliche oder erneuerte Webseite testen, um diesen nicht zu beeinflussen.
 Nach dem Test werden die Probanden gebeten, zwei Fragebogen auszufüllen: den System Usability Scale zur Messung der Usability, sowie den AttrakDiff zur Messung der pragmatischen und hedonischen Qualität der Seite.
 
-2.4.4 Probanden
+2.5.4 Probanden
+Da in einem vorhergehenden Stakeholdermeeting klar wurde, dass das Rechenzentrum nicht viel Wert auf einen abschließenden Test legt, werden nur leicht zugängliche Probanden zum Test angeworden: Studenten, die in einer Cafeteria angesprochen werden. An den Tests nehmen insgesamt 14 Probanden teil, wovon jeweils sieben die ursprüngliche und die neue "Version" testen. Das Durchschnittsalter der Versuchsteilnehmer liegt bei der Originalseite bei 22,4 und bei der erneuerten Seite bei 23,1 Jahren; der Altersdurchschnitt aller Probanden ist 22,75.
 
+2.5.5 Ergebnisse des Tests
+Nachfolgend werden die Ergebnisse der Tests - unterteilt in quantitative und qualitative Daten - berichtet.
 
-2.4.5 Ergebnisse des Tests
+2.5.5.1 Quantitative Ergebnisse
+Als quantitative Ergebnisse werden Fehler beim Lösen der 15 Aufgaben (SIEHE 2.4.1) erhoben. Hier ist anzumerken, dass jeder Klick, der nicht dem oder einem möglichen Lösungsweg entspricht, als Fehler gewertet wird.
+Insgesamt erzielten die Probanden der ursprünglichen Seite 157 Fehler, bei der neuen Version wurden nur 16 (?!?!?!?!?!?!) Fehler gemessen.
 
+Der System Usability Score ...
+
+Die Ergebnisse des AttrakDiff zeigen ebenso ein eindeutiges Bild (siehe Bild: vergleich.png). Das Diagramm der Mittelwerte (siehe Bild: diagramm mittelwerte.png) und die einzelnen Wortpaare (siehe Bild: profil wortpaare.png) bestätigen eine deutliche Verbesserung der Struktur der Webseite und eine gestiegene Zufriedenheit der Nutzer. Während der AttrakDiff die pragmatische Qualität der "alten" Webseite mit "muss dringend überarbeitet werden" beschreibt, sieht er beim neuen Prototypen lediglich Verbesserungspotential der Bedienbarkeit. Hier sei anzumerken, dass keine ideale Benutzerfreundlichkeit aufgrund der Beschränkungen durch das CMS Imperia erreicht werden kann (SIEHE 2.3.3).
+
+Bilder einfügen: vergleich.png, diagramm mittelwerte.png, profil wortpaare.png
+
+2.5.5.2 Qualitative Ergebnisse
+Während des Nutzertests hatten mehrere Probanden Probleme damit, in der neuen Struktur Informationen über den Aspkekt "VPN" zu finden. Dieser war im getetesten Prototypen im Menüpunkt "Software" aufgelistet, wurde jedoch von den Testpersonen als erstes unter "WLAN und Internetzugang" gesucht. 
+Eine weitere Auffälligkeit war, dass die Probanden den Menüpunkt "Passwort-Service" nicht mit dem Inhalt "SMS-Passwortservice" in Verbindung bringen konnten.
+Ebenso wurden die "Vorlesungsaufzeichnungen" von den meisten Probanden unter "Diensten" vermutet.
+Für die Umsetzung dieser Vorschläge SIEHE 2.5.
+Positiv wurden beim Prototypen vor allem eine zentrale Anlaufstelle für E-Mails (in der ursprünglichen Seite gibt es drei Menüpunkte auf zweiter Ebene mit dem Namen "E-Mail") und eine klare Benennung der Top-Level-Kategorien.
+
+2.5.5.3 Zusammenfassung der Ergebnisse
