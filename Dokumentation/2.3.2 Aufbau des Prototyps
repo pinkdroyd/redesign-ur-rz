@@ -1,6 +1,6 @@
 2.3.2 Aufbau des Prototyps
 
-Als Ausgangspunkt für die Konstruktion des Prototypen stehen alle in der Anforderungsanalyse genannten Methoden. So wird gemeinsam in mehreren Meetings aus den verwendeten Methoden eine geignete Struktur entwickelt und diese in einen Prototypen umgewandelt. So müssen die für die Umsetzung notwendigen Menüpunkte diskutiert und eingebunden werden, sowie die Inhalte und deren Gestaltung besprochen werden. Nachfolgend werden die Designentscheidungen für alle Obermenüpunkte näher erläutert:
+Als Ausgangspunkt für die Konstruktion des Prototypen stehen alle in der Anforderungsanalyse genannten Methoden. So wird gemeinsam in mehreren Meetings aus den verwendeten Methoden eine geignete Struktur entwickelt und diese in einen Prototypen umgewandelt. So müssen die für die Umsetzung notwendigen Menüpunkte diskutiert und eingebunden werden, sowie die Inhalte und deren Gestaltung besprochen werden. Nachfolgend werden die Designentscheidungen für alle Menüpunkte auf der ersten Ebene näher erläutert:
 
 - Allgemein:
 Auf der ursprünglichen Webseite des Rechenzentrums sind die Obermenüpunkte oft nach der internen Organisationstruktur des Rechenzentrums angeordnet. So findet sich Information von gleichen Themen oft an unterschiedlichen Orten wieder. Aus diesem Grund wird sich in der neuen Struktur für eine Anordnung der Menüpunkte nach Themengebiet entschieden. Dies erleichtertet dem Nutzer die Orientierung und hilft im schnell die für ihn relevante Information zu finden. Zusätzlich werden die vorhandenen Redundanzen eliminiert. 
@@ -11,6 +11,37 @@ Als zusätzliche Navigationshilfe werden in der neuen Struktur einige Menüpunkt
 Weitere kleinere Designentscheidungen betreffen die Zusammenführung der Frequently Asked Questions (FAQs), die an einer zentralen Stelle zur Verfügung gestellt werden und die direkte Weiterleitung von Elementen in der Navigationsleiste zu externen Links.
 
 - Home:
-Die Landingpage des Rechenzentrums wird von "Startseite RZ" zu "Home" umbenannt, dies stellt mittlerweile eine allgemeingültige Praxis da. Ursprünglich befindet sich auf der Startseite eine Auflistungen der Newsmeldungen und Ankündigungen. Damit die wichtigsten Informationen auf der Eisntiegspunkt der Webseite des Slider für Newsmeldungen
- Quicklinks für meistbesuchte Menüpunkte
- Aktuelle Störungsmeldungen (regelmäßige Aktualisierung notwendig, grafische Anpassung notwendig)
+Die Landingpage des Rechenzentrums wird von "Startseite RZ" zu "Home" umbenannt, dies stellt mittlerweile eine allgemeingültige Praxis da. Ursprünglich befindet sich auf der Startseite eine Auflistungen der Newsmeldungen und Ankündigungen, diese sind basierend auf der Anforderungsanalyse, jedoch nicht als Kernpunkt anzusehen. Damit die wichtigsten Informationen auf dem Einstiegspunkt der Webseite vorzufinden sind, werden nebem einem Slider für Newsmeldungen und Ankündigungen, auch der aktuelle Status von Wartungsarbeiten, sowie eine Auflistung von Quicklinks zur Verfügung gestellt. Die aktuellen Störungsmeldungen sind durch die eingeschränkten Entwicklungsmöglichkeiten nur exemplarisch in Textform vorhanden und muss für eine komplette Umsetzung angepasst werden.
+
+- Mein RZ-Account:
+Für eine übersichtlichere Gestaltung werden die Unterpunkte der ursprünglichen Seite "Mein RZ-Account" aufgelöst und anders benannt. So wird die Möglichkeit das Passwort zu ändern und es zurückzusetzen auf unterschiedlichen Seiten angeboten. Aus dem einzelnen Punkt "RZ-Passwort ändern" ergeben sich somit die zwei neuen Punkte "Passwort ändern" und "SMS-Passwortservice". Des Weiteren wird aus dem direkten Redirect von "Mein Konto" ein neuer Untermenüpunkt mit dem Namen "Guthabenkonto".
+
+-E-Mail:
+Unter dem Menüpunkt "E-Mail" werden alle wichtigen Informationen zum Umgang mit E-Mails zusammengefasst. Die Information sind auf der ursprünlichen Webseite auf verschiedene Unterpunkte verteilt (IT-Services, Support). Auch hier wurde das Prinzip angewandt, relevante Punkte nicht auf der dritten Ebene anzuzeigen, sondern diese auf der zweiten Ebene in ausklappbaren Textfeldern einzubinden.
+
+- Software:
+Der Menüpunkt "Software" bleibt in der neuen Struktur erhalten, wird jedoch vom Inhalt verändert. Es werden viele Unterpunkte entfernt und an anderen Stellen sinnvoller implementiert. Demnach werden etwa die verschiedenen dezentralen Softwareempfehlungen der usprünglichen Seite an einem Punkt "Softwareempfehlungen" zusammengeführt. Der Menüpunkt zum CMS Imperia wird auch als eigener Menüpunkt von "Software" eingeführt. Als größte Anpassung wird die Erweiterung des Softwarekatalogs eingeführt. So wird auch Software die auf der ursprünglichen Seite einen Sonderstatus besitzen (SPSS, Citavi, Betriebssysteme, Office) eingepflegt. Sie erhalten lediglich weitere Angaben zu speziellen Dokumentationen, Anleitungen und Besonderheiten zum Downloadverfahren. Mit dieser Methode wird eine einzige Anlaufstelle für das gesamte Softwareangebot des Rechenzentrums geschaffen. Lediglich die Betriebssysteme behalten aufgrund ihrerer Beschaffenheit einen Sonderstatus und werden in einem eigenen Menüpunkt auf zweiter Ebene zusammengefasst.
+
+- Hardware:
+Der Punkt "Hardware" bleibt größtenteils unverändert. Einzig die Bennung der verschiedenen Menüpunkte auf zweitere Ebene wird angepasst und verständlicher gestaltet. Zudem wird die Information auf den einzelnen Unterseiten übersichtlicher gestaltet. 
+
+- Dienste:
+Auf der ursprünglichen Rechenzentrums-Webseite waren viele angebotenen Dienste des Rechenzentrums unter den Punkten "IT-Services" und "Support" verstreut. Auf der neuen Webseite werden die Dienste zentralisierter angeboten und sind nicht nach zuständiger Abteilung aufgetrennt. Einige Punkte benötigen ausserdem eine neue Benennung, da die alten Nahmen irreführend waren.
+
+- Drucken & Fax
+Unter diesem Menüpunkt werden alle relevanten Informationen aus den Bereichen Drucken und Fax zusammengefasst. Auch hier wird die getrennte Information aus den Menüpunkten "IT-Services" und "Support" verwendet.
+
+- WLAN & Internetzugang
+Hier findet der Nutzer zusammengefasste Information zum Datennetz der Universität, WLAN und Internet. Die Information resultiert aus vorhanden Seiten des "Support" sowie den "IT-Services". 
+
+- CIP-Pools:
+Die an verschiedenen Stellen vorhandene Information zu CIP-Pools werden die Unterseiten aus "IT-Services" und "Support" zusammengefasst. Ausserdem findet sich nun die Ausstattung der verschiedenen CIP-Pools auf einer einzigen Unterseite. Viele  einzelne Seiten aus der dritten Ebene werden nun in „Anleitungen“ zusammengefasst Auch die Reservierung und die Suche nach CIP-Pools wird in der neuen Struktur auf erster Ebene ermöglicht.
+
+- Lehre & Fortbidung:
+Hier finden Dozenten, Studenten und Angestellte die Information die Studium und Ausbildung betreffen. Fast alle Menüpunkte aus dem ursprünglichen Menüpunkt "Lehre und Lernen" vereint und wenn nötig inhaltlich angepasst.
+
+- Verwaltung:
+Der Menüpunkt wurde durch die Ergebnisse der Anforderungsanalyse als zweckmäßig erachtet. Deshalb wird für den Nutzer ein Menüpunkt geschaffen unter dem er alle relevanten Informationen zu Verwaltungsangelegenheiten findet (zum Beispiel Antragsformulare, Rechtliches oder Informationen zum Workgroupmanager).
+
+- Über uns:
+Der usprüngliche Punkt "Unser RZ" wird zu der allgemeineren Bezeichnung "Über uns" umgewandelt. Die enthaltenen Menüpunkte werden nicht maßgeblich verändert, sondern nur Bezeichnungen verändert und neu sortiert. Die Mitarbeitersuche wird, ähnlich dem Softwarekatalog, dynamsich gestaltet. Durch diese Maßnahme wird die vorher unübersichtliche Strukturierung in ein einheitliches und einfach zu bedienendes Format gebracht.   
