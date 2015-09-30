@@ -1,4 +1,0 @@
-Bildverweise
-
-2.2 Konzeption und Design des Prototypen -> 2.2 CMS Bild.jpg
-2.3.2 Aufbau des Prototyps -> Meetings.jpg
