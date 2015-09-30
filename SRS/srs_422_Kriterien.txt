@@ -1,2 +1,0 @@
-Kriterien für die Performanz werden die benötigte Zeit sein in der ein Nutzer einen bestimmten Task löst und wie viele Klicks er hierfür benötigt beziehungsweise wie viele Misserfolge durchlaufen werden, bis das eigentliche Ziel erfüllt ist. Durch dieses Vorgehen lassen sich die Ergenisse leichter Statistisch belegen und es können einfacher Verbesserungen verogenommen werden.
-Für die User Experience und Useability wird ein Abschlussfragebogen erstellt und ein abschließedendes Interview erolgen, bei welchem gewisse Problemstellen im Versuch eingegangen wird.

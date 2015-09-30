@@ -1,1 +1,0 @@
-Ziel ist die neue Struktur mit den verschiedenen Nutzergruppen zu testen und zu bestätigen oder zu wiederlegen, dass der neue Aufbau performanter ist und die Nutzer mehr zufrieden stellt. 
