@@ -1,0 +1,2 @@
+2. Projektverlauf 
+Dieses Kapitel stellt den Verlauf des Projektes detailliert vor. Dabei wird auf die einzelnen Methoden eingegangen und die Ergebnisse daraus vorgestellt. Beginnend mit der anfänglichen Planung des Projektes werden chronologisch sätmliche Schritte - unterteilt in Anforderungsanalyse, sowie Design, Testen und Verbesserung des Prototyps - beschrieben.

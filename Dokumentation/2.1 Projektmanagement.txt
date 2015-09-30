@@ -1,0 +1,11 @@
+2.1 Projektmanagement 
+
+Zu Beginn des Projekts werden von allen Mitgliedern die zu erledigenden Bestandteile analysiert und sortiert. Daraus ergeben sich folgende drei Aufgabenschritte:
+- Anforderungsanalyse
+- Konzeption & Design des Prototypen 
+- Testen des Prototypen 
+Um einen transparenten und jederzeit nachvollziehbaren Projektverlauf zu gewährleisten, einigen sich die Projektmitglieder darauf, einen Projektplan mit Hilfe der Software "Microsoft Project" zu erstellen. Dabei werden die vorher definierten Aufgabenblöcke in Unteraktivitäten untergliedert und einem Zeitplan zugeordnet. 
+Während des Projektverlaufs muss dieser Plan aufgrund von Verzögerungen oder verfrühter Fertigstellung angepasst werden. 
+Da es sich bei diesem Projekt um den ersten Einsatz von Microsoft Project der Mitglieder handelt, werden die angewendetetn Funktionen der Software auf ein Minimum begrenzt.  
+Der finale Projektplan ist als "Projektplan Relaunch RZ-Webseite.mpp" im Abgabeordner zu finden. 
+Während des Projekts wird sich stark an der SCRUM-Methodik bedient. Dazu zählen wöchentliche Treffen, in denenen erledigte Arbeiten reflektiert und folgende Aufgaben verteilt werden. 

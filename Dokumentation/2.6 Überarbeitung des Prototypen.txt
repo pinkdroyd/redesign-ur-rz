@@ -1,0 +1,6 @@
+2.6 Überarbeitung des Prototypen
+
+Nach Auswertung der quanititativen und qualitativen Daten des Nutzertests ergeben sich einige Erkenntnisse, die abschließend in den finalen Prototypen eingearbeitet werden. 
+Auf Basis der Ergebnisse des Heuristic Walkthroughs (siehe 2.4) wird der Menüpunkt "Passwort zurücksetzen" zu "SMS Passwortservice" umbenannt. Somit sollen Missverständnisse bei der Funktion "Passwort zurücksetzen" vermieden werden.
+Zusätzlich fielen im A-B-Vergleich (siehe 2.5) und Heurisitc Walkthrough Probleme beim Auffinden des Download-Links (Dreamspark) unter Betriebssysteme-Windows auf. Die Schriftauszeichnung "Fett" soll den Link jetzt stärker hervorheben und somit für den Nutzer leichter auffälliger sein.
+Eine letzte änderung stellte die Umbennenung von "RZettel" zu "Newesletter (RZettel)". 
